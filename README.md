@@ -55,7 +55,7 @@ Code_Git/
 ### 1. Prerequisites & Environment Setup
 Clone the repository and set up a Python 3.10+ virtual environment:
 ```bash
-git clone https://github.com/FinAudit-RAG/FinAudit-RAG-Benchmark.git
+git clone https://github.com/AbdelkaderBerrouachedi/FinAudit-RAG-Benchmark.git
 cd FinAudit-RAG-Benchmark
 
 # Create and activate virtual environment
