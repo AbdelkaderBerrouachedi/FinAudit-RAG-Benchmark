@@ -169,12 +169,4 @@ This system is intended for professional forensic auditors, regulatory complianc
 
 If you use FinAudit-RAG datasets, XBRL parsing scripts, acoustic prosody harnesses, or the causal graph engine in your research, please cite:
 
-```bibtex
-@article{finaudit_rag_2026,
-  title={FinAudit-RAG: A Neuro-Symbolic Retrieval-Augmented Generation Architecture for Forensic Financial Auditing of Corporate Earnings Calls via Certified XBRL Knowledge Graphs},
-  author={FinAudit-RAG Consortium},
-  journal={arXiv preprint arXiv:2604.23588},
-  year={2026},
-  url={https://arxiv.org/abs/2604.23588}
-}
-```
+
