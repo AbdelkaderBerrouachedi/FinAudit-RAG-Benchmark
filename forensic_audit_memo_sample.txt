@@ -1,0 +1,62 @@
+=====================================================================================
+                   CONFIDENTIAL FORENSIC AUDIT MEMORANDUM
+             PREPARED BY FINAUDIT-RAG NEURO-SYMBOLIC CAUSAL ENGINE
+=====================================================================================
+DATE OF AUDIT REPORT  : 2026-10-26 14:14:21 UTC
+TARGET REGISTRANT     : CyberTech Enterprise Solutions Inc. (CYBR-TECH)
+FISCAL PERIOD AUDITED : Q3 2023 (Form 10-Q & Earnings Call Broadcast)
+INSPECTION STANDARD   : PCAOB AS 2401 (Fraud in Financial Statements) & SEC Rule 10b-5
+OVERALL DECEPTION AUROC: 0.9412 (DECISION: ACTIONABLE DECEPTION)
+-------------------------------------------------------------------------------------
+
+1. EXECUTIVE SUMMARY & FORENSIC ATTRIBUTION
+   FinAudit-RAG completed an automated tri-modal forensic audit cross-verifying executive spoken
+   disclosures from the Q3 2023 earnings conference against certified SEC Form 10-Q XBRL instance
+   taxonomies and accompanying disclosure footnotes.
+
+   GAAP Conservation Check: [PASSED] Double-Entry Balanced
+   Total Audited Claims Evaluated : 6 Key Discourse Units
+   Material Contradictions Flagged: 3
+
+2. ADJUDICATED MATERIAL CONTRADICTIONS (LINE-BY-LINE REGULATORY EVIDENCE)
+
+   [FINDING #1] Contested Concept: ShortTermDebtMaturity
+   - Speaker & Turn ID    : Claire Vance (CFO) (Turn T04)
+   - Judicial Verdict     : DECEPTIVE_MATERIAL_MISSTATEMENT (Confidence: 100.0%)
+   - Statutory Violation  : High SOX Section 302 / SEC Rule 10b-5 Enforcement Risk
+   - Judicial Rationale   : The Defense's argument of non-GAAP intent is formally REJECTED. The contradiction against certified SEC Form 10-Q (ShortTermDebtMaturity: claimed 0.0 vs audited 285.0) is material, statistically decisive (p = 0.0000e+00), and corroborated by acute acoustic prosody elevation.
+   - Regulatory Citations :
+       * MATERIAL CONTRADICTION DETECTED: Executive Claire Vance (CFO) orally asserted that ShortTermDebtMaturity is 0.0, whereas certified SEC Form 10-Q documentation establishes the audited amount as 285.0.
+       * REGULATORY FOOTNOTE EVIDENCE: Form 10-Q disclosures state: "As of September 30, 2023, outstanding borrowings under the Senior Secured Revolving Credit Facility totaled $285.0 million. Pursuant to the First Amendment to Credit Agreement date..."
+   - Defense Counter-Case : NON-FRAUD HYPOTHESIS: Management's verbal assertion may reflect non-GAAP operational projections, pro-forma liquidity expectations, or informal working capital definitions rather than fraudulent intent.
+   - Remedial Mandate     : Refer immediately to SEC Division of Enforcement; issue formal Audit Restatement Memo.
+
+   [FINDING #2] Contested Concept: ContractAssetsExtendedTerms
+   - Speaker & Turn ID    : Arthur Sterling (CEO) (Turn T05)
+   - Judicial Verdict     : DECEPTIVE_MATERIAL_MISSTATEMENT (Confidence: 100.0%)
+   - Statutory Violation  : High SOX Section 302 / SEC Rule 10b-5 Enforcement Risk
+   - Judicial Rationale   : The Defense's argument of non-GAAP intent is formally REJECTED. The contradiction against certified SEC Form 10-Q (ContractAssetsExtendedTerms: claimed 0.0 vs audited 88.5) is material, statistically decisive (p = 0.0000e+00), and corroborated by acute acoustic prosody elevation.
+   - Regulatory Citations :
+       * MATERIAL CONTRADICTION DETECTED: Executive Arthur Sterling (CEO) orally asserted that ContractAssetsExtendedTerms is 0.0, whereas certified SEC Form 10-Q documentation establishes the audited amount as 88.5.
+       * REGULATORY FOOTNOTE EVIDENCE: Form 10-Q disclosures state: "During the three months ended September 30, 2023, the Company recognized $88.5 million in unbilled contract receivables (Contract Assets) representing multi-year software licensing..."
+   - Defense Counter-Case : NON-FRAUD HYPOTHESIS: Management's verbal assertion may reflect non-GAAP operational projections, pro-forma liquidity expectations, or informal working capital definitions rather than fraudulent intent.
+   - Remedial Mandate     : Refer immediately to SEC Division of Enforcement; issue formal Audit Restatement Memo.
+
+   [FINDING #3] Contested Concept: OffBalanceSheetGuarantees
+   - Speaker & Turn ID    : Claire Vance (CFO) (Turn T06)
+   - Judicial Verdict     : DECEPTIVE_MATERIAL_MISSTATEMENT (Confidence: 100.0%)
+   - Statutory Violation  : High SOX Section 302 / SEC Rule 10b-5 Enforcement Risk
+   - Judicial Rationale   : The Defense's argument of non-GAAP intent is formally REJECTED. The contradiction against certified SEC Form 10-Q (OffBalanceSheetGuarantees: claimed 0.0 vs audited 185.0) is material, statistically decisive (p = 0.0000e+00), and corroborated by acute acoustic prosody elevation.
+   - Regulatory Citations :
+       * MATERIAL CONTRADICTION DETECTED: Executive Claire Vance (CFO) orally asserted that OffBalanceSheetGuarantees is 0.0, whereas certified SEC Form 10-Q documentation establishes the audited amount as 185.0.
+       * REGULATORY FOOTNOTE EVIDENCE: Form 10-Q disclosures state: "The Company holds a 49% equity interest in CyberTech Asia-Pacific Logistics Pte. Ltd., an unconsolidated special purpose entity (VIE). Pursuant to a Parent Guarantee Agreement date..."
+   - Defense Counter-Case : NON-FRAUD HYPOTHESIS: Management's verbal assertion may reflect non-GAAP operational projections, pro-forma liquidity expectations, or informal working capital definitions rather than fraudulent intent.
+   - Remedial Mandate     : Refer immediately to SEC Division of Enforcement; issue formal Audit Restatement Memo.
+
+-------------------------------------------------------------------------------------
+3. REGULATORY AND ENFORCEMENT RECOMMENDATIONS
+   1. Subpoena Form 8-K Item 4.02 Non-Reliance on Previously Issued Financial Statements.
+   2. Issue Formal Document Request regarding Singapore VIE Parent Guarantee terms (Note 14).
+   3. Demand Working Papers from Independent Auditor regarding accelerated debt maturity acceleration (Note 7).
+=====================================================================================
+   [END OF FORENSIC MEMORANDUM - EVIDENCE GROUNDED IN SEC EDGAR REPOSITORY]

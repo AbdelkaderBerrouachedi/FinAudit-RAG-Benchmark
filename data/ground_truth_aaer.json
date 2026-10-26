@@ -1,0 +1,21 @@
+{
+  "adjudication_record": {
+    "case_id": "SEC-AAER-5142",
+    "respondent": "CyberTech Enterprise Solutions Inc., Arthur Sterling (CEO), Claire Vance (CFO)",
+    "release_date": "2024-06-18",
+    "enforcement_division": "SEC Division of Enforcement & Office of the Chief Accountant",
+    "statutes_violated": [
+      "Securities Exchange Act of 1934 Section 10(b) and Rule 10b-5 (Fraudulent Disclosures)",
+      "Section 13(a) and Rules 13a-1, 13a-13 (Periodic Reporting Violations)",
+      "Sarbanes-Oxley Act of 2002 Section 302 (False Executive Certifications)"
+    ],
+    "findings_summary": "The Commission found that during the Q3 2023 earnings conference call and related Form 10-Q filing, Sterling and Vance knowingly engaged in deceptive communicative acts: (1) concealing $285 million in accelerated debt maturities and impending covenant default; (2) orally denying the existence of extended payment terms while secretly recognizing $88.5M in unbilled contracts with 360-day terms; and (3) misrepresenting an irrevocable $185M parent guarantee on an unconsolidated foreign affiliate as non-recourse.",
+    "ground_truth_label": {
+      "deception_binary": 1,
+      "severity_score": 0.92,
+      "material_restatement_required": true,
+      "form_8k_item_402_filed": "2024-04-12",
+      "stock_price_impact_60d_car": -0.0512
+    }
+  }
+}

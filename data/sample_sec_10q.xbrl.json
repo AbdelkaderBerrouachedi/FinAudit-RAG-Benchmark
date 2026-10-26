@@ -1,0 +1,87 @@
+{
+  "filing_metadata": {
+    "cik": "0001488921",
+    "registrant_name": "CyberTech Enterprise Solutions Inc.",
+    "form_type": "10-Q",
+    "period_end_date": "2023-09-30",
+    "filing_date": "2023-10-24T16:15:00Z",
+    "accounting_standard": "US GAAP",
+    "auditor": "Deloitte & Touche LLP"
+  },
+  "balance_sheet_xbrl": {
+    "CashAndCashEquivalents": 185.0,
+    "RestrictedCash": 125.0,
+    "AccountsReceivableGross": 240.0,
+    "AllowanceForDoubtfulAccounts": -12.0,
+    "AccountsReceivableNet": 228.0,
+    "ContractAssetsUnbilled": 145.0,
+    "TotalCurrentAssets": 558.0,
+    "PropertyPlantEquipmentNet": 312.0,
+    "GoodwillAndIntangibles": 420.0,
+    "TotalAssets": 1290.0,
+    "AccountsPayable": 94.0,
+    "AccruedLiabilities": 82.0,
+    "CurrentPortionOfLongTermDebt": 285.0,
+    "TotalCurrentLiabilities": 461.0,
+    "LongTermDebtNonCurrent": 340.0,
+    "TotalLiabilities": 801.0,
+    "CommonStock": 10.0,
+    "AdditionalPaidInCapital": 380.0,
+    "RetainedEarnings": 99.0,
+    "TotalStockholdersEquity": 489.0,
+    "TotalLiabilitiesAndEquity": 1290.0
+  },
+  "income_statement_xbrl": {
+    "Revenues": 485.0,
+    "CostOfGoodsSold": 158.0,
+    "GrossProfit": 327.0,
+    "ResearchAndDevelopment": 98.0,
+    "SellingGeneralAdministrative": 142.0,
+    "OperatingExpenses": 240.0,
+    "OperatingIncome": 87.0,
+    "InterestExpense": 21.0,
+    "TaxExpense": 14.0,
+    "NetIncome": 52.0
+  },
+  "disclosure_footnotes": [
+    {
+      "note_id": "Note 3",
+      "title": "Revenue from Contracts with Customers (ASC 606)",
+      "schedule_type": "Contract Balances and Payment Terms",
+      "paragraph": 4,
+      "text": "During the three months ended September 30, 2023, the Company recognized $88.5 million in unbilled contract receivables (Contract Assets) representing multi-year software licensing bundled with hardware delivery. Under amended customer arrangements, the Company granted extended payment terms ranging between 180 and 360 days for 14 enterprise customers. In addition, certain channel agreements contain contingent buyback and right-of-return covenants aggregating $34.0 million in unreserved exposure.",
+      "extracted_facts": {
+        "UnbilledContractAssetsExtendedTerms": 88.5,
+        "ExtendedPaymentTermsDaysMax": 360,
+        "ContingentBuybackExposure": 34.0
+      }
+    },
+    {
+      "note_id": "Note 7",
+      "title": "Financing Arrangements and Debt Obligations",
+      "schedule_type": "Maturity Schedule of Outstanding Borrowings",
+      "paragraph": 6,
+      "text": "As of September 30, 2023, outstanding borrowings under the Senior Secured Revolving Credit Facility totaled $285.0 million. Pursuant to the First Amendment to Credit Agreement dated July 12, 2023, the maturity date of the Revolving Facility was accelerated to March 31, 2024 (within 6 months of filing). Furthermore, the facility includes a minimum Fixed Charge Coverage Ratio (FCCR) covenant of 1.25x; the Company's calculated FCCR as of the balance sheet date was 1.18x, necessitating a conditional covenant waiver from the syndicate lenders.",
+      "extracted_facts": {
+        "CurrentPortionOfLongTermDebt": 285.0,
+        "MaturityWindowMonths": 5.2,
+        "CovenantBreachCondition": true,
+        "CalculatedFCCR": 1.18,
+        "RequiredFCCR": 1.25
+      }
+    },
+    {
+      "note_id": "Note 14",
+      "title": "Commitments, Contingencies and Off-Balance Sheet Arrangements",
+      "schedule_type": "Variable Interest Entities and Unconsolidated Guarantees",
+      "paragraph": 9,
+      "text": "The Company holds a 49% equity interest in CyberTech Asia-Pacific Logistics Pte. Ltd., an unconsolidated special purpose entity (VIE). Pursuant to a Parent Guarantee Agreement dated January 15, 2022, the Company has irrevocably guaranteed $185.0 million in outstanding bank credit lines of the affiliate. In the event of default or debt service acceleration by the primary lender, the Company would be legally obligated to immediately satisfy all outstanding liabilities. No liability has been accrued on the Consolidated Balance Sheet for this guarantee as the Company determined the default probability was non-probable.",
+      "extracted_facts": {
+        "OffBalanceSheetGuarantees": 185.0,
+        "VIEEquityInterest": 0.49,
+        "ParentGuaranteeRecourse": true,
+        "BalanceSheetAccrualRecorded": 0.0
+      }
+    }
+  ]
+}
