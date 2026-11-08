@@ -27,6 +27,6 @@ test_missing_identity_does_not_pass (test_core.ScreeningTests.test_missing_ident
 test_nan_tolerance_rejected (test_core.ScreeningTests.test_nan_tolerance_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 27 tests in 0.250s
+Ran 27 tests in 0.178s
 
 OK

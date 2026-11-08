@@ -1,9 +1,9 @@
 {
-  "utc": "2026-11-08T02:08:51.942740+00:00",
+  "utc": "2026-11-08T21:19:31.214005+00:00",
   "commands": [
     {
       "command": [
-        "C:\\Users\\Abdelkader\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "C:\\Users\\Abdelkader\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
         "-m",
         "unittest",
         "discover",
@@ -16,7 +16,7 @@
     },
     {
       "command": [
-        "C:\\Users\\Abdelkader\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "C:\\Users\\Abdelkader\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
         "run_finaudit.py",
         "screen",
         "--bundle",

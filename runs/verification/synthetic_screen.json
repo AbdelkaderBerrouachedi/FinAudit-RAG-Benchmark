@@ -178,8 +178,8 @@
   "human_review_required": true,
   "run_provenance": {
     "software_version": "0.3.0",
-    "utc": "2026-11-08T02:08:51.251032+00:00",
-    "python": "3.12.14",
+    "utc": "2026-11-08T21:19:31.077044+00:00",
+    "python": "3.14.6",
     "platform": "Windows-11-10.0.26300-SP0",
     "command": {
       "command": "screen",
@@ -194,7 +194,7 @@
         "sha256": "400c2276d55d93d5f1bc6be12939911da524a044244c81a78ed57c6a557cfc59"
       }
     },
-    "elapsed_seconds": 0.6545885000014096,
+    "elapsed_seconds": 0.0954115000058664,
     "timing_scope": "this local command only; not raw audio-to-LLM end-to-end latency"
   }
 }
