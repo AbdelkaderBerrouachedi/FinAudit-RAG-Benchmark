@@ -1,0 +1,64 @@
+{
+  "utc": "2026-11-08T02:09:26.608503+00:00",
+  "all_passed": true,
+  "commands": [
+    {
+      "arguments": [
+        "train",
+        "--manifest",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\manifest.json",
+        "--features",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\features.json",
+        "--feature-names",
+        "x",
+        "--allow-synthetic",
+        "--output",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json"
+      ],
+      "returncode": 0,
+      "stdout": "Wrote C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json\n",
+      "stderr": ""
+    },
+    {
+      "arguments": [
+        "predict",
+        "--model",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json",
+        "--features",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\test_features.json",
+        "--output",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\predictions.json"
+      ],
+      "returncode": 0,
+      "stdout": "Wrote C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\predictions.json\n",
+      "stderr": ""
+    },
+    {
+      "arguments": [
+        "evaluate",
+        "--manifest",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\manifest.json",
+        "--predictions",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\predictions.json",
+        "--threshold",
+        "0.9658175404870974",
+        "--probabilities",
+        "--allow-synthetic",
+        "--output",
+        "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\evaluation.json"
+      ],
+      "returncode": 0,
+      "stdout": "Wrote C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\evaluation.json\n",
+      "stderr": ""
+    }
+  ],
+  "scope": "fictional CLI integration only, not financial accuracy",
+  "artifact_sha256": {
+    "evaluation.json": "4460c9a375b02df04d79cd12c8bffd4b27676ddc65ecc8a22c514532ca59988e",
+    "features.json": "062f698bdfda271e46b2d347fe010675533adc9f7bf245051d6f6537cbabc9ac",
+    "manifest.json": "478c2d201d0e365968bb1411d2b419367e474bfb471495469bfb9eea99f89b26",
+    "model.json": "c3edb47634e2f2f1fe326cefc042680c1a9974480409333555c5bfa514f616eb",
+    "predictions.json": "523c111f26970504c17f5f4756b17c06bed86d0e0423c799a10d3baf7737d4ed",
+    "test_features.json": "ed44c4eff64ce038dd47dbda0baaa2fc9da835e39342b80cb1b46225de117baf"
+  }
+}

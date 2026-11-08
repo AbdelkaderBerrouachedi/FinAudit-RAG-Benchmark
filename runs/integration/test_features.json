@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": "integration-2-0",
+    "features": {
+      "x": 0.0
+    }
+  },
+  {
+    "event_id": "integration-2-1",
+    "features": {
+      "x": 1.0
+    }
+  },
+  {
+    "event_id": "integration-2-2",
+    "features": {
+      "x": 0.0
+    }
+  },
+  {
+    "event_id": "integration-2-3",
+    "features": {
+      "x": 1.0
+    }
+  },
+  {
+    "event_id": "integration-2-4",
+    "features": {
+      "x": 0.0
+    }
+  },
+  {
+    "event_id": "integration-2-5",
+    "features": {
+      "x": 1.0
+    }
+  },
+  {
+    "event_id": "integration-2-6",
+    "features": {
+      "x": 0.0
+    }
+  },
+  {
+    "event_id": "integration-2-7",
+    "features": {
+      "x": 1.0
+    }
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "schema_version": "0.3",
+  "model_type": "standardized_l2_logistic_regression",
+  "feature_names": [
+    "x"
+  ],
+  "mean": [
+    0.5
+  ],
+  "std": [
+    0.5
+  ],
+  "weights": [
+    3.3412623021277623
+  ],
+  "bias": 6.210310043996965e-17,
+  "threshold": 0.9658175404870974,
+  "threshold_selection": "maximize validation macro-F1; ties closest to 0.5, then larger",
+  "validation_macro_f1": 1.0,
+  "train_event_ids": [
+    "integration-0-0",
+    "integration-0-1",
+    "integration-0-2",
+    "integration-0-3",
+    "integration-0-4",
+    "integration-0-5",
+    "integration-0-6",
+    "integration-0-7"
+  ],
+  "validation_event_ids": [
+    "integration-1-0",
+    "integration-1-1",
+    "integration-1-2",
+    "integration-1-3",
+    "integration-1-4",
+    "integration-1-5",
+    "integration-1-6",
+    "integration-1-7"
+  ],
+  "data_kinds": [
+    "synthetic"
+  ],
+  "config": {
+    "iterations": 1000,
+    "learning_rate": 0.1,
+    "l2": 0.01
+  },
+  "training_loss": 0.034780344093308935,
+  "calibration_status": "no post-hoc calibration; probabilities require held-out assessment",
+  "run_provenance": {
+    "software_version": "0.3.0",
+    "utc": "2026-11-08T02:09:23.588828+00:00",
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "command": {
+      "command": "train",
+      "manifest": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\manifest.json",
+      "features": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\features.json",
+      "feature_names": [
+        "x"
+      ],
+      "allow_synthetic": true,
+      "output": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json"
+    },
+    "input_files": {
+      "manifest": {
+        "path": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\manifest.json",
+        "sha256": "478c2d201d0e365968bb1411d2b419367e474bfb471495469bfb9eea99f89b26"
+      },
+      "features": {
+        "path": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\features.json",
+        "sha256": "062f698bdfda271e46b2d347fe010675533adc9f7bf245051d6f6537cbabc9ac"
+      }
+    },
+    "elapsed_seconds": 0.7281266000027244,
+    "timing_scope": "this local command only; not raw audio-to-LLM end-to-end latency"
+  }
+}

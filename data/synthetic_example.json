@@ -1,0 +1,114 @@
+{
+  "event_id": "synthetic-example-001",
+  "issuer_id": "SYNTHETICCO",
+  "data_kind": "synthetic",
+  "call_time": "2024-01-20T17:00:00Z",
+  "documents": [
+    {
+      "source_id": "synthetic-filing",
+      "url": "synthetic://fixture/filing",
+      "available_at": "2024-01-20T16:00:00Z",
+      "text": "Illustrative financial input: revenue USD 485; cash USD 185; assets USD 1290; liabilities USD 801; equity USD 489. These values are fictional fixtures, not company evidence."
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "revenue",
+      "concept": "Revenue",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 485,
+      "source_id": "synthetic-filing",
+      "locator": "fixture revenue",
+      "assurance": "reported",
+      "basis": "reported"
+    },
+    {
+      "fact_id": "cash",
+      "concept": "Cash",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 185,
+      "source_id": "synthetic-filing",
+      "locator": "fixture cash",
+      "assurance": "reported",
+      "basis": "reported"
+    },
+    {
+      "fact_id": "assets",
+      "concept": "Assets",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 1290,
+      "source_id": "synthetic-filing",
+      "locator": "fixture assets",
+      "assurance": "reported",
+      "basis": "reported"
+    },
+    {
+      "fact_id": "liabilities",
+      "concept": "Liabilities",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 801,
+      "source_id": "synthetic-filing",
+      "locator": "fixture liabilities",
+      "assurance": "reported",
+      "basis": "reported"
+    },
+    {
+      "fact_id": "equity",
+      "concept": "Equity",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 489,
+      "source_id": "synthetic-filing",
+      "locator": "fixture equity",
+      "assurance": "reported",
+      "basis": "reported"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "claim-revenue",
+      "quote": "Revenue was USD 485.",
+      "transcript_locator": "synthetic turn 1",
+      "concept": "Revenue",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 485,
+      "comparator": "eq",
+      "basis": "reported"
+    },
+    {
+      "claim_id": "claim-cash",
+      "quote": "Cash was USD 310.",
+      "transcript_locator": "synthetic turn 2",
+      "concept": "Cash",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 310,
+      "comparator": "eq",
+      "basis": "reported"
+    },
+    {
+      "claim_id": "claim-unknown",
+      "quote": "Guarantees were zero.",
+      "transcript_locator": "synthetic turn 3",
+      "concept": "Guarantees",
+      "period": "2023Q4",
+      "unit": "USD",
+      "issuer_id": "SYNTHETICCO",
+      "value": 0,
+      "comparator": "eq",
+      "basis": "reported"
+    }
+  ]
+}

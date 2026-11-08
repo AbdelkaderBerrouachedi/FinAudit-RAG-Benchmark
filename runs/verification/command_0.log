@@ -1,0 +1,32 @@
+test_annotations_denominators (test_core.MetricsTests.test_annotations_denominators) ... ok
+test_auc_against_pair_definition (test_core.MetricsTests.test_auc_against_pair_definition) ... ok
+test_invalid_inputs (test_core.MetricsTests.test_invalid_inputs) ... ok
+test_macro_f1_regression (test_core.MetricsTests.test_macro_f1_regression) ... ok
+test_paired_identical_models (test_core.MetricsTests.test_paired_identical_models) ... ok
+test_probability_bins_include_one (test_core.MetricsTests.test_probability_bins_include_one) ... ok
+test_roc_matches_auc_with_ties (test_core.MetricsTests.test_roc_matches_auc_with_ties) ... ok
+test_tie_order_invariance (test_core.MetricsTests.test_tie_order_invariance) ... ok
+test_undefined_auc_is_not_half (test_core.MetricsTests.test_undefined_auc_is_not_half) ... ok
+test_manifest_temporal_overlap_rejected (test_core.PipelineTests.test_manifest_temporal_overlap_rejected) ... ok
+test_manifest_unknown_label_rejected (test_core.PipelineTests.test_manifest_unknown_label_rejected) ... ok
+test_naive_time_rejected (test_core.PipelineTests.test_naive_time_rejected) ... ok
+test_prediction_alignment_rejected (test_core.PipelineTests.test_prediction_alignment_rejected) ... ok
+test_sec_unknown_timestamp_excluded (test_core.PipelineTests.test_sec_unknown_timestamp_excluded) ... ok
+test_synthetic_training_needs_opt_in (test_core.PipelineTests.test_synthetic_training_needs_opt_in) ... ok
+test_test_features_cannot_change_fit (test_core.PipelineTests.test_test_features_cannot_change_fit) ... ok
+test_training_and_holdout (test_core.PipelineTests.test_training_and_holdout) ... ok
+test_waveform_silence_and_tone (test_core.PipelineTests.test_waveform_silence_and_tone) ... ok
+test_adjusted_basis_does_not_match_reported (test_core.ScreeningTests.test_adjusted_basis_does_not_match_reported) ... ok
+test_conflicting_facts_abstain (test_core.ScreeningTests.test_conflicting_facts_abstain) ... ok
+test_context_mismatch_excluded (test_core.ScreeningTests.test_context_mismatch_excluded) ... ok
+test_discrepancy_and_missing_are_separate (test_core.ScreeningTests.test_discrepancy_and_missing_are_separate) ... ok
+test_filing_balance_is_not_truth (test_core.ScreeningTests.test_filing_balance_is_not_truth) ... ok
+test_future_evidence_excluded (test_core.ScreeningTests.test_future_evidence_excluded) ... ok
+test_lexical_retrieval (test_core.ScreeningTests.test_lexical_retrieval) ... ok
+test_missing_identity_does_not_pass (test_core.ScreeningTests.test_missing_identity_does_not_pass) ... ok
+test_nan_tolerance_rejected (test_core.ScreeningTests.test_nan_tolerance_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.250s
+
+OK

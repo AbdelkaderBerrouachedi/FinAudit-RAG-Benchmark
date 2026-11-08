@@ -1,0 +1,3513 @@
+{
+  "loughran2011": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2026-11-06T21:35:11Z",
+      "timestamp": 1794000911446,
+      "version": "4.8.0"
+    },
+    "reference-count": 33,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              6
+            ]
+          ],
+          "date-time": "2011-01-06T00:00:00Z",
+          "timestamp": 1294272000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Journal of Finance"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Previous research uses negative word counts to measure the tone of a text. We show that word lists developed for other disciplines misclassify common words in financial text. In a large sample of 10‐Ks during 1994 to 2008, almost three‐fourths of the words identified as negative by the widely used Harvard Dictionary are words typically not considered negative in financial contexts. We develop an alternative negative word list, along with five other word lists, that better reflect tone in financial text. We link the word lists to 10‐K filing returns, trading volume, return volatility, fraud, material weakness, and unexpected earnings.</jats:p>",
+    "DOI": "10.1111/j.1540-6261.2010.01625.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2015-09-23T21:59:03Z",
+      "timestamp": 1443045543000
+    },
+    "page": "35-65",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5658,
+    "title": [
+      "When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10‐Ks"
+    ],
+    "prefix": "10.1111",
+    "volume": "66",
+    "author": [
+      {
+        "given": "TIM",
+        "family": "LOUGHRAN",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "BILL",
+        "family": "MCDONALD",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-6261.2004.00662.x"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-010-0844-0"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "volume-title": "Content Analysis in Communication Research",
+        "author": "Berelson Bernard R.",
+        "year": "1952"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chisholm Erica andTamara G.Kolda 1999 New term weighting formulas for the vector space method in information retrieval Technical Report Number ORNL‐TM‐13756 Oak Ridge National Laboratory Oak Ridge TN.",
+        "DOI": "10.2172/5698"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/0022-1082.00393"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Das Sanjiv andMikeChen 2001 Yahoo! for Amazon: Opinion extraction from small talk on the web Working paper Santa Clara University.",
+        "DOI": "10.2139/ssrn.276189"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Demers Elizabeth andClaraVega 2008 Soft information in earnings announcements: News or noise? Working paper INSEAD.",
+        "DOI": "10.17016/IFDP.2008.951"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/266531"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2308/accr.2007.82.5.1141"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Engelberg Joseph 2008 Costly information processing: Evidence from earnings announcements Working paper Northwestern University.",
+        "DOI": "10.2139/ssrn.1107998"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0304-405X(93)90023-5"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0304-405X(96)00896-3"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0304-405X(01)00038-1"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/260061"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Feldman Ronen SureshGovindaraj JoshuaLivnat andBenjaminSegal 2008 The incremental information content of tone change in management discussion and analysis Working paper INSEAD.",
+        "DOI": "10.2139/ssrn.1126962"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1027351630866"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/rfs/hhq024"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0021943608319388"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "volume-title": "Academic Writing Course",
+        "author": "Jordan R.R.",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "volume-title": "Speech and Language Processing",
+        "author": "Jurafsky Daniel",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kothari S.P. XuLi andJamesShort 2008 The effect of disclosures by management analysts and financial press on cost of capital return volatility and analyst forecasts: A study using content analysis Working paper MIT.",
+        "DOI": "10.2139/ssrn.1113337"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacceco.2008.02.003"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Feng 2009 The determinants and information content of the forward‐looking statements in corporate filings—a Naïve Bayesian machine learning approach Working paper University of Michigan.",
+        "DOI": "10.2139/ssrn.1267235"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "volume-title": "Foundations of Statistical Natural Language Processing",
+        "author": "Manning Christopher D.",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "unstructured": "Mayew William J. andMohanVenkatachalam 2009 The power of voice: Managerial affective states and future firm performance Working paper Duke University."
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1913610"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "unstructured": "Public Company Accounting Oversight Board (PCAOB) 2004 An audit of internal control over financial reporting performed in conjunction with an audit of financial statements. Auditing Standard No. 2 (Washington DC.)"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-6261.1988.tb04591.x"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "unstructured": "Singhal Amit 2009 Modern information retrieval: A brief overview Working paper Google Inc."
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "volume-title": "The General Inquirer: A Computer Approach to Content Analysis",
+        "author": "Stone Philip J.",
+        "year": "1966"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-6261.2007.01232.x"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-6261.2008.01362.x"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v008.i01"
+      }
+    ],
+    "container-title": [
+      "The Journal of Finance"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1540-6261.2010.01625.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-6261.2010.01625.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2023-10-05T14:45:57Z",
+      "timestamp": 1696517157000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01625.x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          6
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1540-6261.2010.01625.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1540-6261.2010.01625.x",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0022-1082",
+      "1540-6261"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-1082",
+        "type": "print"
+      },
+      {
+        "value": "1540-6261",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2011-01-06",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  "dechow2011": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T19:04:29Z",
+      "timestamp": 1794078269825,
+      "version": "4.8.0"
+    },
+    "reference-count": 35,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 1678,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1111/j.1911-3846.2010.01041.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2011-01-27T09:52:17Z",
+      "timestamp": 1296121937000
+    },
+    "page": "17-82",
+    "source": "Crossref",
+    "is-referenced-by-count": 1625,
+    "title": [
+      "Predicting Material Accounting Misstatements*"
+    ],
+    "prefix": "10.1111",
+    "volume": "28",
+    "author": [
+      {
+        "given": "PATRICIA M.",
+        "family": "DECHOW",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "WEILI",
+        "family": "GE",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "CHAD R.",
+        "family": "LARSON",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "RICHARD G.",
+        "family": "SLOAN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB1|cit1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Allen , E. C. Larson R. Sloan 2009 Accrual reversals, earnings and stock returns Washington University in St. Louis",
+        "DOI": "10.2139/ssrn.1480248"
+      },
+      {
+        "issue": "Supplement",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB3|cit2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2308/accr.2002.77.s-1.1",
+        "article-title": "The balance sheet as an earnings management constraint",
+        "volume": "77",
+        "author": "Barton",
+        "year": "2002",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB4|cit3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bayley , L. S. Taylor 2007 Identifying earnings overstatements: A practical test ABN Amro Sydney and University of New South Wales",
+        "DOI": "10.2139/ssrn.995957"
+      },
+      {
+        "issue": "4",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB5|cit4",
+        "first-page": "443",
+        "article-title": "An empirical analysis of the relation between the board of director composition and financial statement fraud",
+        "volume": "71",
+        "author": "Beasley",
+        "year": "1996",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB6|cit5",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1016/S0278-4254(97)00023-9",
+        "article-title": "Detecting GAAP violations: Implications for assessing earnings management among firms with extreme financial performance",
+        "volume": "16",
+        "author": "Beneish",
+        "year": "1997",
+        "journal-title": "Journal of Accounting and Public Policy"
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB7|cit6",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1023/A:1009692703952",
+        "article-title": "Discussion of “Are accruals during initial public offerings opportunistic?”",
+        "volume": "3",
+        "author": "Beneish",
+        "year": "1998",
+        "journal-title": "Review of Accounting Studies"
+      },
+      {
+        "issue": "5",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB8|cit7",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.2469/faj.v55.n5.2296",
+        "article-title": "The detection of earnings manipulation",
+        "volume": "55",
+        "author": "Beneish",
+        "year": "1999a",
+        "journal-title": "Financial Analysts Journal"
+      },
+      {
+        "issue": "4",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB9|cit8",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.2308/accr.1999.74.4.425",
+        "article-title": "Incentives and penalties related to earnings overstatements that violate GAAP",
+        "volume": "74",
+        "author": "Beneish",
+        "year": "1999b",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB10|cit9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1111/j.1475-679X.2009.00349.x",
+        "article-title": "Using nonfinancial measures to assess fraud risk",
+        "volume": "47",
+        "author": "Brazel",
+        "year": "2009",
+        "journal-title": "Journal of Accounting Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB11|cit10",
+        "doi-asserted-by": "crossref",
+        "first-page": "385",
+        "DOI": "10.1016/j.jacceco.2005.12.002",
+        "article-title": "Asymmetric treatment of reported pension expense and income amounts in CEO cash compensation calculations",
+        "volume": "42",
+        "author": "Comprix",
+        "year": "2006",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "Supplement",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB12|cit11",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.2308/accr.2002.77.s-1.35",
+        "article-title": "The quality of accruals and earnings: The role of accrual estimation errors",
+        "volume": "77",
+        "author": "Dechow",
+        "year": "2002",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB13|cit12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jacceco.2010.09.001",
+        "article-title": "Understanding earnings quality",
+        "author": "Dechow",
+        "year": "2010",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB14|cit13",
+        "first-page": "193",
+        "article-title": "Detecting earnings management",
+        "volume": "70",
+        "author": "Dechow",
+        "year": "1995",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB15|cit14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1911-3846.1996.tb00489.x",
+        "article-title": "Causes and consequences of earnings misstatement: An analysis of firms subject to enforcement actions by the SEC",
+        "volume": "13",
+        "author": "Dechow",
+        "year": "1996",
+        "journal-title": "Contemporary Accounting Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB16|cit15",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/0165-4101(94)90008-6",
+        "article-title": "Debt covenant violation and misstatement of accruals",
+        "volume": "17",
+        "author": "DeFond",
+        "year": "1994",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB17|cit16",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.2308/accr.2004.79.2.387",
+        "article-title": "How much will firms pay for earnings that do not exist? Evidence of taxes paid on allegedly fraudulent earnings",
+        "volume": "79",
+        "author": "Erickson",
+        "year": "2004",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB18|cit17",
+        "unstructured": "Ettredge , M. L. Sun P. Lee A. Anandarajan 2006 Do deferred tax data signal earnings fraud? University of Kansas School of Business"
+      },
+      {
+        "issue": "2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB19|cit18",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.2308/accr.2005.80.2.539",
+        "article-title": "Restoring trust after fraud: Does corporate governance matter?",
+        "volume": "80",
+        "author": "Farber",
+        "year": "2005",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "Supplement",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB20|cit19",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.2307/2491006",
+        "article-title": "The financial and market effects of the SEC’s accounting and auditing enforcement releases",
+        "volume": "29",
+        "author": "Feroz",
+        "year": "1991",
+        "journal-title": "Journal of Accounting Research"
+      },
+      {
+        "issue": "Supplement",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB21|cit20",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.2308/accr.2002.77.s-1.71",
+        "article-title": "The relation between auditors’ fees for no audit services and earnings management",
+        "volume": "77",
+        "author": "Frankel",
+        "year": "2002",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB22|cit21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ge , W. 2007 Off-balance-sheet activities, earnings persistence and stock prices: Evidence from operating leases University of Washington",
+        "DOI": "10.2139/ssrn.816044"
+      },
+      {
+        "issue": "1-3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB23|cit22",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.jacceco.2005.01.002",
+        "article-title": "The economic implications of corporate financial reporting",
+        "volume": "40",
+        "author": "Graham",
+        "year": "2005",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB24|cit23",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/0165-4101(85)90029-1",
+        "article-title": "The effect of bonus schemes on accounting decisions",
+        "volume": "7",
+        "author": "Healy",
+        "year": "1985",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB25|cit24",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1017/S0022109000004221",
+        "article-title": "The cost to firms of cooking the books",
+        "volume": "43",
+        "author": "Karpoff",
+        "year": "2008",
+        "journal-title": "Journal of Financial and Quantitative Analysis"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB26|cit25",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1016/j.jacceco.2004.11.002",
+        "article-title": "Performance-matched discretionary accrual measures",
+        "volume": "39",
+        "author": "Kothari",
+        "year": "2005",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB27|cit26",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.2307/2530022",
+        "article-title": "Efficient screening of nonnormal regression models",
+        "volume": "34",
+        "author": "Lawless",
+        "year": "1978",
+        "journal-title": "Biometrics"
+      },
+      {
+        "issue": "5",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB28|cit27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1001",
+        "DOI": "10.1111/j.1475-679X.2006.00224.x",
+        "article-title": "The press as a watchdog for accounting fraud",
+        "volume": "44",
+        "author": "Miller",
+        "year": "2006",
+        "journal-title": "Journal of Accounting Research"
+      },
+      {
+        "issue": "2",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB29|cit28",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.2308/accr.2003.78.2.491",
+        "article-title": "Earnings management: New evidence based on deferred tax expense",
+        "volume": "78",
+        "author": "Phillips",
+        "year": "2003",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB30|cit29",
+        "first-page": "41",
+        "article-title": "An analysis of the underlying causes attributed to restatements",
+        "volume": "24",
+        "author": "Plumlee",
+        "year": "2010",
+        "journal-title": "The Accounting Review"
+      },
+      {
+        "issue": "4",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB31|cit30",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1023/A:1027364031775",
+        "article-title": "Does the stock market fully appreciate the implications of leading indicators for future earnings? Evidence from order backlog",
+        "volume": "8",
+        "author": "Rajgopal",
+        "year": "2003",
+        "journal-title": "Review of Accounting Studies"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB32|cit31",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/S0304-405X(98)00033-6",
+        "article-title": "Earnings management and the performance of seasoned equity offerings",
+        "volume": "50",
+        "author": "Rangan",
+        "year": "1998",
+        "journal-title": "Journal of Financial Economics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB33|cit32",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1016/j.jacceco.2005.04.005",
+        "article-title": "Accrual reliability, earnings persistence, and stock prices",
+        "volume": "39",
+        "author": "Richardson",
+        "year": "2005",
+        "journal-title": "Journal of Accounting and Economics"
+      },
+      {
+        "issue": "2-3",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB34|cit33",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1023/A:1020294523516",
+        "article-title": "Earnings surprises, growth expectations, and stock returns or don’t let an earnings torpedo sink your portfolio",
+        "volume": "7",
+        "author": "Skinner",
+        "year": "2002",
+        "journal-title": "Review of Accounting Studies"
+      },
+      {
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB35|cit34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Skousen , C. J. C. J. Wright 2006 Contemporaneous risk factors and the prediction of financial statement fraud University of Texas at Arlington",
+        "DOI": "10.2139/ssrn.938736"
+      },
+      {
+        "issue": "1",
+        "key": "10.1111/j.1911-3846.2010.01041.x-BIB36|cit35",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/S0304-405X(98)00032-4",
+        "article-title": "Earnings management and the underperformance of seasoned equity offerings",
+        "volume": "50",
+        "author": "Teoh",
+        "year": "1998",
+        "journal-title": "Journal of Financial Economics"
+      }
+    ],
+    "container-title": [
+      "Contemporary Accounting Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1911-3846.2010.01041.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2021-07-06T22:28:25Z",
+      "timestamp": 1625610505000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1911-3846.2010.01041.x"
+      }
+    },
+    "subtitle": [
+      "Predicting Material Accounting Misstatements"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          27
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            3
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1111/j.1911-3846.2010.01041.x",
+    "relation": {},
+    "ISSN": [
+      "0823-9150"
+    ],
+    "issn-type": [
+      {
+        "value": "0823-9150",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          27
+        ]
+      ]
+    }
+  },
+  "fawcett2006": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T14:50:22Z",
+      "timestamp": 1794063022211,
+      "version": "4.8.0"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2006-06-01T00:00:00Z",
+          "timestamp": 1149120000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pattern Recognition Letters"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.patrec.2005.10.010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2005-12-22T18:49:55Z",
+      "timestamp": 1135277395000
+    },
+    "page": "861-874",
+    "source": "Crossref",
+    "is-referenced-by-count": 18970,
+    "title": [
+      "An introduction to ROC analysis"
+    ],
+    "prefix": "10.1016",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Tom",
+        "family": "Fawcett",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "7",
+        "key": "10.1016/j.patrec.2005.10.010_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1145",
+        "DOI": "10.1016/S0031-3203(96)00142-2",
+        "article-title": "The use of the area under the ROC curve in the evaluation of machine learning algorithms",
+        "volume": "30",
+        "author": "Bradley",
+        "year": "1997",
+        "journal-title": "Pattern Recogn."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib2",
+        "series-title": "Classification and Regression Trees",
+        "author": "Breiman",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/0010-4655(91)90014-C",
+        "article-title": "A rule-learning program in high energy physics event classification",
+        "volume": "67",
+        "author": "Clearwater",
+        "year": "1991",
+        "journal-title": "Comput. Phys. Commun."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Domingos, P., 1999. MetaCost: A general method for making classifiers cost-sensitive. In: Proc. Fifth ACM SIGKDD Internat. Conf.on Knowledge Discovery and Data Mining, pp. 155–164.",
+        "DOI": "10.1145/312129.312220"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib5",
+        "article-title": "Signal detection theory and ROC analysis",
+        "author": "Egan",
+        "year": "1975"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fawcett, T., 2001. Using rule sets to maximize ROC performance. In: Proc. IEEE Internat. Conf. on Data Mining (ICDM-2001), pp. 131–138.",
+        "DOI": "10.1109/ICDM.2001.989510"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib7",
+        "series-title": "Proc. Second Internat. Conf. on Knowledge Discovery and Data Mining",
+        "first-page": "8",
+        "article-title": "Combining data mining and machine learning for effective user profiling",
+        "author": "Fawcett",
+        "year": "1996"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.patrec.2005.10.010_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1023/A:1009700419189",
+        "article-title": "Adaptive fraud detection",
+        "volume": "1",
+        "author": "Fawcett",
+        "year": "1997",
+        "journal-title": "Data Mining and Knowledge Discovery"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib9",
+        "series-title": "Proc. 2003 UK Workshop on Computational Intelligence",
+        "first-page": "38",
+        "article-title": "Repairing concavities in ROC curves",
+        "author": "Flach",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib10",
+        "unstructured": "Forman, G., 2002. A method for discovering the insignificance of one’s best classifier and the unlearnability of a classification task. In: Lavrac, N., Motoda, H., Fawcett, T. (Eds.), Proc. First Internat. Workshop on Data Mining Lessons Learned (DMLL-2002). Available from: http://www.purl.org/NET/tfawcett/DMLL-2002/Forman.pdf."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.patrec.2005.10.010_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1023/A:1010920819831",
+        "article-title": "A simple generalization of the area under the ROC curve to multiple class classification problems",
+        "volume": "45",
+        "author": "Hand",
+        "year": "2001",
+        "journal-title": "Mach. Learning"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1148/radiology.143.1.7063747",
+        "article-title": "The meaning and use of the area under a receiver operating characteristic (ROC) curve",
+        "volume": "143",
+        "author": "Hanley",
+        "year": "1982",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib13",
+        "unstructured": "Holte, R., 2002. Personal communication."
+      },
+      {
+        "issue": "2–3",
+        "key": "10.1016/j.patrec.2005.10.010_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1023/A:1007452223027",
+        "article-title": "Machine learning for the detection of oil spills in satellite radar images",
+        "volume": "30",
+        "author": "Kubat",
+        "year": "1998",
+        "journal-title": "Machine Learning"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib15",
+        "unstructured": "Lane, T., 2000. Extensions of ROC analysis to multi-class domains. In: Dietterich, T., Margineantu, D., Provost, F., Turney, P. (Eds.), ICML-2000 Workshop on Cost-Sensitive Learning."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib16",
+        "series-title": "Proc. Workshop on Speech and Natural Language",
+        "first-page": "288",
+        "article-title": "Representation quality in text classification: An introduction and experiment",
+        "author": "Lewis",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib17",
+        "series-title": "Proc. Speech and Natural Language Workshop",
+        "first-page": "312",
+        "article-title": "Evaluating text categorization",
+        "author": "Lewis",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Macskassy, S., Provost, F., 2004. Confidence bands for ROC curves: Methods and an empirical study. In: Proc. First Workshop on ROC Analysis in AI (ROCAI-04).",
+        "DOI": "10.21236/ADA453849"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib19",
+        "unstructured": "Provost, F., Domingos, P., 2001. Well-trained PETs: Improving probability estimation trees, CeDER Working Paper #IS-00-04, Stern School of Business, New York University, NY, NY 10012."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib20",
+        "series-title": "Proc. Third Internat. Conf. on Knowledge Discovery and Data Mining (KDD-97)",
+        "first-page": "43",
+        "article-title": "Analysis and visualization of classifier performance: Comparison under imprecise class and cost distributions",
+        "author": "Provost",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib21",
+        "series-title": "Proc. AAAI-98",
+        "first-page": "706",
+        "article-title": "Robust classification systems for imprecise environments",
+        "author": "Provost",
+        "year": "1998"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.patrec.2005.10.010_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1023/A:1007601015854",
+        "article-title": "Robust classification for imprecise environments",
+        "volume": "42",
+        "author": "Provost",
+        "year": "2001",
+        "journal-title": "Mach. Learning"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib23",
+        "series-title": "Proc. ICML-98",
+        "first-page": "445",
+        "article-title": "The case against accuracy estimation for comparing induction algorithms",
+        "author": "Provost",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1023/A:1007448122119",
+        "article-title": "Learning in the “real world”",
+        "volume": "30",
+        "author": "Saitta",
+        "year": "1998",
+        "journal-title": "Mach. Learning"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib25",
+        "series-title": "Proc. Sixth Internat. Workshop on Machine Learning",
+        "first-page": "160",
+        "article-title": "Signal detection theory: Valuable tools for evaluating inductive learning",
+        "author": "Spackman",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib26",
+        "unstructured": "Srinivasan, A., 1999. Note on the location of optimal classifiers in n-dimensional ROC space. Technical Report PRG-TR-2-99, Oxford University Computing Laboratory, Oxford, England. Available from: <http://citeseer.nj.nec.com/srinivasan99note.html>."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1285",
+        "DOI": "10.1126/science.3287615",
+        "article-title": "Measuring the accuracy of diagnostic systems",
+        "volume": "240",
+        "author": "Swets",
+        "year": "1988",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1038/scientificamerican1000-82",
+        "article-title": "Better decisions through science",
+        "volume": "283",
+        "author": "Swets",
+        "year": "2000",
+        "journal-title": "Scientific American"
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib29",
+        "unstructured": "van der Putten, P., van Someren, M., 2000. CoIL challenge 2000: The insurance company case. Technical Report 2000–09, Leiden Institute of Advanced Computer Science, Universiteit van Leiden. Available from: <http://www.liacs.nl/putten/library/cc2000>."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib30",
+        "unstructured": "Zadrozny, B., Elkan, C., 2001. Obtaining calibrated probability estimates from decision trees and naive Bayesian classiers. In: Proc. Eighteenth Internat. Conf. on Machine Learning, pp. 609–616."
+      },
+      {
+        "key": "10.1016/j.patrec.2005.10.010_bib31",
+        "unstructured": "Zou, K.H., 2002. Receiver operating characteristic (ROC) literature research. On-line bibliography available from: <http://splweb.bwh.harvard.edu:8000/pages/ppl/zou/roc.html>."
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition Letters"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S016786550500303X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S016786550500303X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2020-04-11T15:37:48Z",
+      "timestamp": 1586619468000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S016786550500303X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S016786550500303X"
+    ],
+    "URL": "https://doi.org/10.1016/j.patrec.2005.10.010",
+    "relation": {},
+    "ISSN": [
+      "0167-8655"
+    ],
+    "issn-type": [
+      {
+        "value": "0167-8655",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          6
+        ]
+      ]
+    }
+  },
+  "robertson2009": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T10:58:41Z",
+      "timestamp": 1794049121939,
+      "version": "4.8.0"
+    },
+    "reference-count": 63,
+    "publisher": "Emerald",
+    "issue": "1-2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The Probabilistic Relevance Framework (PRF) is a formal framework for document retrieval, grounded in work done in the 1970–1980s, which led to the development of one of the most successful text-retrieval algo¬rithms, BM25. In recent years, research in the PRF has yielded new retrieval models capable of taking into account document meta-data (especially structure and link-graph information). Again, this has led to one of the most successful Web-search and corporate-search algo¬rithms, BM25F. This work presents the PRF from a conceptual point of view, describing the probabilistic modelling assumptions behind the framework and the different ranking algorithms that result from its application: the binary independence model, relevance feedback mod¬els, BM25 and BM25F. It also discusses the relation between the PRF and other statistical models for IR, and covers some related topics, such as the use of non-textual features, and parameter optimisation for models with free parameters.</jats:p>",
+    "DOI": "10.1561/1500000019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2010-01-12T10:08:33Z",
+      "timestamp": 1263290913000
+    },
+    "page": "1-174",
+    "source": "Crossref",
+    "is-referenced-by-count": 2824,
+    "title": [
+      "The Probabilistic Relevance Framework: BM25 and Beyond"
+    ],
+    "prefix": "10.1108",
+    "volume": "4",
+    "author": [
+      {
+        "given": "Stephen",
+        "family": "Robertson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Microsoft Research , 7 J J Thomson Avenue, Cambridge CB3 0FB,",
+            "place": [
+              "UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hugo",
+        "family": "Zaragoza",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Yahoo! Research, Av. Diagonal 177, Barcelona 08028, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "140",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2026040314280606700_ref001",
+        "article-title": "Proceedings of the NIPS 2005 Workshop on Learning to Rank",
+        "author": "Agarwal",
+        "year": "2005"
+      },
+      {
+        "issue": "4",
+        "key": "2026040314280606700_ref002",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1145/582415.582416",
+        "article-title": "Probabilistic models of information retrieval based on measuring the divergence from randomness",
+        "volume": "20",
+        "author": "Amati",
+        "year": "2002",
+        "journal-title": "ACM Transactions on Information Systems"
+      },
+      {
+        "key": "2026040314280606700_ref003",
+        "first-page": "143",
+        "article-title": "Okapi at TREC-5",
+        "volume-title": "The Fifth Text Retrieval Conference (TREC-5). NIST Special Publication",
+        "author": "Beaulieu",
+        "year": "1997"
+      },
+      {
+        "key": "2026040314280606700_ref004",
+        "unstructured": "Berghen, F. V.\n          \n          n.d., Trust Region Algorithms. Webpage. http://www.lemurproject.org"
+      },
+      {
+        "key": "2026040314280606700_ref005",
+        "article-title": "CONDOR: A constrained, non-linear, derivative-free parallel optimizer for continuous, high computing load, noisy objective functions",
+        "volume-title": "PhD thesis",
+        "author": "Berghen",
+        "year": "2004"
+      },
+      {
+        "key": "2026040314280606700_ref006",
+        "author": "Bishop",
+        "year": "2006"
+      },
+      {
+        "key": "2026040314280606700_ref007",
+        "first-page": "993",
+        "article-title": "Latent dirichlet allocation",
+        "volume": "3",
+        "author": "Blei",
+        "year": "2003",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "2026040314280606700_ref008",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1002/asi.10398",
+        "article-title": "A new unified probabilistic model",
+        "volume": "55",
+        "author": "Bodoff",
+        "year": "2004",
+        "journal-title": "Journal of the American Society for Information Science and Technology"
+      },
+      {
+        "key": "2026040314280606700_ref009",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.6028/NIST.SP.500-266.terabyte-umilano.vigna",
+        "article-title": "MG4J at TREC 2005",
+        "volume-title": "The Fourteenth Text Retrieval Conference (TREC 2005) Proceedings, NIST Special Publication",
+        "author": "Boldi",
+        "year": "2005"
+      },
+      {
+        "key": "2026040314280606700_ref010",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1145/1102351.1102363",
+        "article-title": "Learning to rank using gradient descent",
+        "volume-title": "Proceedings of the International Conference on Machine Learning (ICML)",
+        "author": "Burges",
+        "year": "2005"
+      },
+      {
+        "key": "2026040314280606700_ref011",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1145/195705.195735",
+        "article-title": "Some inconsistencies and misidentified modelling assumptions in probabilistic information retrieval",
+        "volume": "13",
+        "author": "Cooper",
+        "year": "1995",
+        "journal-title": "ACM Transactions on Information Systems"
+      },
+      {
+        "key": "2026040314280606700_ref012",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1145/1076034.1076106",
+        "article-title": "Relevance weighting for query independent evidence",
+        "volume-title": "Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Craswell",
+        "year": "2005"
+      },
+      {
+        "key": "2026040314280606700_ref013",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.6028/NIST.SP.500-266.enterprise-microsoft.robertson",
+        "article-title": "Microsoft Cambridge at TREC-14: Enterprise track",
+        "volume-title": "The Fourteenth Text Retrieval Conference (TREC 2005)",
+        "author": "Craswell",
+        "year": "2005"
+      },
+      {
+        "issue": "4",
+        "key": "2026040314280606700_ref014",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/299917.299920",
+        "article-title": "“Is this document relevant? … probably”: A survey of probabilistic models in information retrieval",
+        "volume": "30",
+        "author": "Crestani",
+        "year": "1998",
+        "journal-title": "ACM Computing Surveys"
+      },
+      {
+        "key": "2026040314280606700_ref015",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1108/eb026683",
+        "article-title": "Using probabilistic models of document retrieval without relevance information",
+        "volume": "35",
+        "author": "Croft",
+        "year": "1979",
+        "journal-title": "Journal of Documentation"
+      },
+      {
+        "key": "2026040314280606700_ref016",
+        "author": "Feller",
+        "year": "1968"
+      },
+      {
+        "issue": "3",
+        "key": "2026040314280606700_ref017",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/comjnl/35.3.243",
+        "article-title": "Probabilistic Models in Information Retrieval",
+        "volume": "35",
+        "author": "Fuhr",
+        "year": "1992",
+        "journal-title": "The Computer Journal"
+      },
+      {
+        "key": "2026040314280606700_ref018",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1145/62437.62487",
+        "article-title": "Information retrieval using a singular value decomposition model of latent semantic structure",
+        "volume-title": "Proceedings of the 11th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Furnas",
+        "year": "1988"
+      },
+      {
+        "key": "2026040314280606700_ref019",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1002/asi.4630260402",
+        "article-title": "A probabilistic approach to automatic keyword indexing (parts 1 and 2)",
+        "volume": "26",
+        "author": "Harter",
+        "year": "1975",
+        "journal-title": "Journal of the American Society for Information Science"
+      },
+      {
+        "key": "2026040314280606700_ref020",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1145/1008992.1009025",
+        "article-title": "Parsimonious language models for information retrieval",
+        "volume-title": "Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Hiemstra",
+        "year": "2004"
+      },
+      {
+        "key": "2026040314280606700_ref021",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1145/312624.312649",
+        "article-title": "Probabilistic latent semantic indexing",
+        "volume-title": "Proceedings of the 22nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Hofmann",
+        "year": "1999"
+      },
+      {
+        "key": "2026040314280606700_ref022",
+        "unstructured": "NA\n              NA\n            \n          \n          Indri Homepage\n          Lemur Project\n          NA\n          http://www.lemurproject.org/indri"
+      },
+      {
+        "issue": "2",
+        "key": "2026040314280606700_ref023",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1145/1328964.1328974",
+        "article-title": "Learning to rank for information retrieval (LR4IR 2007)",
+        "volume": "41",
+        "author": "Joachims",
+        "year": "2007",
+        "journal-title": "SIGIR Forum"
+      },
+      {
+        "key": "2026040314280606700_ref024",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/383952.383970",
+        "article-title": "Document language models, query models, and risk minimization for information retrieval",
+        "volume-title": "Proceedings of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Lafferty",
+        "year": "2001"
+      },
+      {
+        "key": "2026040314280606700_ref025",
+        "first-page": "1",
+        "volume-title": "Language Modelling for Information Retrieval",
+        "author": "Lafferty",
+        "year": "2003"
+      },
+      {
+        "key": "2026040314280606700_ref026",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1145/383952.383972",
+        "article-title": "Relevance based language models",
+        "volume-title": "Proceedings of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Lavrenko",
+        "year": "2001"
+      },
+      {
+        "key": "2026040314280606700_ref027",
+        "unstructured": "Lemur Project\n          \n          Lemur Toolkit Homepage\n          Lemur Project\n          NA\n          http://www.lemurproject.org"
+      },
+      {
+        "issue": "2",
+        "key": "2026040314280606700_ref028",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1145/1480506.1480519",
+        "article-title": "Learning to rank for information retrieval (LR4IR 2008)",
+        "volume": "42",
+        "author": "Li",
+        "year": "2008",
+        "journal-title": "SIGIR Forum"
+      },
+      {
+        "key": "2026040314280606700_ref029",
+        "unstructured": "Apache Software Foundation\n          \n          Lucene Homepage\n          Apache Software Foundation\n          NA\n          http://lucene.apache.org"
+      },
+      {
+        "issue": "3",
+        "key": "2026040314280606700_ref030",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1145/321033.321035",
+        "article-title": "On relevance, probabilistic indexing and information retrieval",
+        "volume": "7",
+        "author": "Maron",
+        "year": "1960",
+        "journal-title": "Journal of the ACM"
+      },
+      {
+        "key": "2026040314280606700_ref031",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1145/1321440.1321478",
+        "article-title": "Automatic feature selection in the Markov random field model for information retrieval",
+        "volume-title": "Proceedings of the Sixteenth ACM Conference on Information and Knowledge Management",
+        "author": "Metzler",
+        "year": "2007"
+      },
+      {
+        "key": "2026040314280606700_ref032",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1145/1076034.1076115",
+        "article-title": "A Markov random field model for term dependencies",
+        "volume-title": "Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Metzler",
+        "year": "2005"
+      },
+      {
+        "key": "2026040314280606700_ref033",
+        "volume-title": "Information Retrieval in Practice",
+        "author": "Metzler",
+        "year": "2009"
+      },
+      {
+        "key": "2026040314280606700_ref034",
+        "unstructured": "Università degli Studi di Milano – DSI\n          \n          MG4J Homepage\n          Università degli Studi di Milano – DSI\n          NA\n          http://mg4j.dsi.unimi.it"
+      },
+      {
+        "key": "2026040314280606700_ref035",
+        "unstructured": "MacFarlane\n              A.\n            \n          \n          Okapi-Pack Homepage\n          City University London\n          NA\n          http://www.soi.city.ac.uk/andym/OKAPI-PACK"
+      },
+      {
+        "key": "2026040314280606700_ref036",
+        "article-title": "UCM-Y!R at CLEF 2008 Robust and WSD tasks",
+        "volume-title": "CLEF 2008 Workshop",
+        "author": "Pérez-Agüera",
+        "year": "2008"
+      },
+      {
+        "key": "2026040314280606700_ref037",
+        "article-title": "Exploiting morphological query structure using genetic optimization",
+        "volume-title": "NLDB 2008, LNCS, Springer Verlag",
+        "author": "Pérez-Agüera",
+        "year": "2008"
+      },
+      {
+        "key": "2026040314280606700_ref038",
+        "unstructured": "Pérez-Iglesias, J.\n          \n          BM25 and BM25F Implementation for Lucene\n          Webpage\n          http://nlp.uned.es/~jperezi/Lucene-BM25\n          NA"
+      },
+      {
+        "key": "2026040314280606700_ref039",
+        "unstructured": "University of Twente\n          \n          PF-Tijah Homepage\n          University of Twente\n          NA\n          http://dbappl.cs.utwente.nl/pftijah"
+      },
+      {
+        "key": "2026040314280606700_ref040",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1108/eb026647",
+        "article-title": "The probability ranking principle in information retrieval",
+        "volume": "33",
+        "author": "Robertson",
+        "year": "1977",
+        "journal-title": "Journal of Documentation"
+      },
+      {
+        "key": "2026040314280606700_ref041",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1108/eb026866",
+        "article-title": "On term selection for query expansion",
+        "volume": "46",
+        "author": "Robertson",
+        "year": "1990",
+        "journal-title": "Journal of Documentation"
+      },
+      {
+        "key": "2026040314280606700_ref042",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1023/A:1015702129514",
+        "article-title": "Threshold setting and performance optimization in adaptive filtering",
+        "volume": "5",
+        "author": "Robertson",
+        "year": "2002",
+        "journal-title": "Information Retrieval"
+      },
+      {
+        "key": "2026040314280606700_ref043",
+        "first-page": "108",
+        "article-title": "The unified probabilistic model for IR",
+        "volume-title": "Proceedings of Research and Development in Information Retrieval",
+        "author": "Robertson",
+        "year": "1983"
+      },
+      {
+        "key": "2026040314280606700_ref044",
+        "article-title": "Relevance weighting of search terms",
+        "author": "Robertson",
+        "year": "1977",
+        "journal-title": "Journal of the American Society for Information Science"
+      },
+      {
+        "key": "2026040314280606700_ref045",
+        "first-page": "35",
+        "article-title": "Probabilistic models of indexing and searching",
+        "volume-title": "Information Retrieval Research (Proceedings of Research and Development in Information Retrieval, Cambridge, 1980)",
+        "author": "Robertson",
+        "year": "1981"
+      },
+      {
+        "key": "2026040314280606700_ref046",
+        "first-page": "232",
+        "article-title": "Some Simple Effective Approximations to the 2-Poisson Model for Probabilistic Weighted Retrieval",
+        "volume-title": "Proceedings of the 17th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Robertson",
+        "year": "1994"
+      },
+      {
+        "key": "2026040314280606700_ref047",
+        "first-page": "16",
+        "article-title": "On relevance weights with little relevance information",
+        "volume-title": "Proceedings of the 20th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Robertson",
+        "year": "2007"
+      },
+      {
+        "key": "2026040314280606700_ref048",
+        "first-page": "21",
+        "article-title": "Okapi at TREC",
+        "volume-title": "The First Text Retrieval Conference (TREC-1), NIST Special Publication 500-207",
+        "author": "Robertson",
+        "year": "1992"
+      },
+      {
+        "issue": "3",
+        "key": "2026040314280606700_ref049",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1007/s10791-007-9025-9",
+        "article-title": "On rank-based effectiveness measures and optimization",
+        "volume": "10",
+        "author": "Robertson",
+        "year": "2007",
+        "journal-title": "Information Retrieval"
+      },
+      {
+        "key": "2026040314280606700_ref050",
+        "first-page": "42",
+        "article-title": "Simple BM25 extension to multiple weighted fields",
+        "volume-title": "Proceedings of the 2004 ACM CIKM International Conference on Information and Knowledge Management",
+        "author": "Robertson",
+        "year": "2004"
+      },
+      {
+        "key": "2026040314280606700_ref051",
+        "first-page": "346",
+        "article-title": "Viewing term proximity from a different perspective",
+        "volume-title": "Advances in Information Retrieval (ECIR 2008), Springer LNCS 4956",
+        "author": "Song",
+        "year": "2008"
+      },
+      {
+        "key": "2026040314280606700_ref052",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1016/S0306-4573(00)00015-7",
+        "article-title": "A probabilistic model of information retrieval: Development and comparative experiments. Part 1",
+        "author": "Sparck Jones",
+        "year": "2000",
+        "journal-title": "Information Processing and Management"
+      },
+      {
+        "key": "2026040314280606700_ref053",
+        "doi-asserted-by": "crossref",
+        "first-page": "809",
+        "DOI": "10.1016/S0306-4573(00)00016-9",
+        "article-title": "A probabilistic model of information retrieval: Development and comparative experiments. Part 2",
+        "author": "Sparck Jones",
+        "year": "2000",
+        "journal-title": "Information Processing and Management"
+      },
+      {
+        "key": "2026040314280606700_ref054",
+        "first-page": "295",
+        "article-title": "An exploration of proximity measures in information retrieval",
+        "volume-title": "Proceedings of the 20th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "author": "Tao",
+        "year": "2007"
+      },
+      {
+        "key": "2026040314280606700_ref055",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1183614.1183698",
+        "article-title": "Optimisation methods for ranking functions with multiple parameters",
+        "volume-title": "Fifteenth Conference on Information and Knowledge Management (ACM CIKM)",
+        "author": "Taylor",
+        "year": "2006"
+      },
+      {
+        "key": "2026040314280606700_ref056",
+        "unstructured": "Terrier, \n           (n.d.), Homepage. http://ir.dcs.gla.ac.uk/terrier."
+      },
+      {
+        "key": "2026040314280606700_ref057",
+        "first-page": "12",
+        "article-title": "PF/Tijah: Text search in an XML database system",
+        "volume-title": "Proceedings of the 2nd International Workshop on Open Source Information Retrieval (OSIR)",
+        "author": "van Os",
+        "year": "2006"
+      },
+      {
+        "key": "2026040314280606700_ref058",
+        "author": "van Rijsbergen",
+        "year": "1979"
+      },
+      {
+        "key": "2026040314280606700_ref059",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.6028/NIST.SP.500-246",
+        "article-title": "Overview of the eighth text retrieval conference (TREC-8)",
+        "volume-title": "The Eighth Text Retrieval Conference (TREC-8), NIST Special Publication 500-246",
+        "author": "Voorhees",
+        "year": "2000"
+      },
+      {
+        "key": "2026040314280606700_ref060",
+        "unstructured": "Wumpus\n            \n           (n.d.), Homepage. Wumpus. http://www.wumpus-search.org/."
+      },
+      {
+        "key": "2026040314280606700_ref061",
+        "unstructured": "Xapian\n            \n           (n.d.), Homepage. Xapian. http://xapian.org."
+      },
+      {
+        "key": "2026040314280606700_ref062",
+        "article-title": "Microsoft Cambridge at TREC 2004: Web and HARD track",
+        "volume-title": "The Thirteenth Text Retrieval Conference (TREC 2004), NIST Special Publication 500-261",
+        "author": "Zaragoza",
+        "year": "2005"
+      },
+      {
+        "key": "2026040314280606700_ref063",
+        "unstructured": "Zettair\n            \n           (n.d.), Homepage. Zettair. http://www.seg.rmit.edu.au/zettair."
+      }
+    ],
+    "container-title": [
+      "Foundations and Trends® in Information Retrieval"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.emerald.com/ftinr/article-pdf/4/1-2/1/11486410/1500000019en.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://www.emerald.com/ftinr/article-pdf/4/1-2/1/11486410/1500000019en.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T14:32:00Z",
+      "timestamp": 1777473120000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.emerald.com/ftinr/article/4/1-2/1/1326508/The-Probabilistic-Relevance-Framework-BM25-and"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          17
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "1-2",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            9,
+            17
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1561/1500000019",
+    "relation": {},
+    "ISSN": [
+      "1554-0669",
+      "1554-0677"
+    ],
+    "issn-type": [
+      {
+        "value": "1554-0669",
+        "type": "print"
+      },
+      {
+        "value": "1554-0677",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          9,
+          17
+        ]
+      ]
+    }
+  },
+  "efron1979": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T16:15:42Z",
+      "timestamp": 1794068142053,
+      "version": "4.8.0"
+    },
+    "reference-count": 0,
+    "publisher": "Institute of Mathematical Statistics",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann. Statist."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1979,
+          1,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>We discuss the following problem: given a random sample $\\mathbf{X} = (X_1, X_2, \\cdots, X_n)$ from an unknown probability distribution $F$, estimate the sampling distribution of some prespecified random variable $R(\\mathbf{X}, F)$, on the basis of the observed data $\\mathbf{x}$. (Standard jackknife theory gives an approximate mean and variance in the case $R(\\mathbf{X}, F) = \\theta(\\hat{F}) - \\theta(F), \\theta$ some parameter of interest.) A general method, called the \"bootstrap,\" is introduced, and shown to work satisfactorily on a variety of estimation problems. The jackknife is shown to be a linear approximation method for the bootstrap. The exposition proceeds by a series of examples: variance of the sample median, error rates in a linear discriminant analysis, ratio estimation, estimating regression parameters, etc.</jats:p>",
+    "DOI": "10.1214/aos/1176344552",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          12,
+          17
+        ]
+      ],
+      "date-time": "2007-12-17T15:20:07Z",
+      "timestamp": 1197904807000
+    },
+    "page": "1-26",
+    "source": "Crossref",
+    "is-referenced-by-count": 13272,
+    "title": [
+      "Bootstrap Methods: Another Look at the Jackknife"
+    ],
+    "prefix": "10.1214",
+    "volume": "7",
+    "author": [
+      {
+        "given": "B.",
+        "family": "Efron",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "108",
+    "container-title": [
+      "The Annals of Statistics"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://projecteuclid.org/download/pdf_1/euclid.aos/1176344552",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2026-10-16T19:13:27Z",
+      "timestamp": 1792178007000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://projecteuclid.org/journals/annals-of-statistics/volume-7/issue-1/Bootstrap-Methods-Another-Look-at-the-Jackknife/10.1214/aos/1176344552.full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1979,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            1979,
+            1,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1214/aos/1176344552",
+    "relation": {},
+    "ISSN": [
+      "0090-5364",
+      "2168-8966"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-5364",
+        "type": "print"
+      },
+      {
+        "value": "2168-8966",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1979,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "gneiting2007": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T15:57:08Z",
+      "timestamp": 1794067028609,
+      "version": "4.8.0"
+    },
+    "reference-count": 44,
+    "publisher": "Informa UK Limited",
+    "issue": "477",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1198/016214506000001437",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2007-02-04T17:54:47Z",
+      "timestamp": 1170611687000
+    },
+    "page": "359-378",
+    "source": "Crossref",
+    "is-referenced-by-count": 4887,
+    "title": [
+      "Strictly Proper Scoring Rules, Prediction, and Estimation"
+    ],
+    "prefix": "10.1198",
+    "volume": "102",
+    "author": [
+      {
+        "given": "Tilmann",
+        "family": "Gneiting",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adrian E",
+        "family": "Raftery",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "p_2",
+        "first-page": "190",
+        "volume": "88",
+        "author": "Journal",
+        "journal-title": "Multivariate Analysis"
+      },
+      {
+        "key": "p_4",
+        "first-page": "686",
+        "volume": "7",
+        "journal-title": "Statistics"
+      },
+      {
+        "key": "p_20",
+        "first-page": "2131",
+        "volume": "131",
+        "journal-title": "Society"
+      },
+      {
+        "key": "p_24",
+        "first-page": "841",
+        "volume": "39",
+        "journal-title": "Review"
+      },
+      {
+        "key": "p_26",
+        "first-page": "311",
+        "volume": "45",
+        "journal-title": "Ser. B"
+      },
+      {
+        "key": "p_28",
+        "first-page": "297",
+        "volume": "41",
+        "journal-title": "Probability"
+      },
+      {
+        "key": "p_29",
+        "first-page": "278",
+        "volume": "147",
+        "journal-title": "Ser. A"
+      },
+      {
+        "key": "p_36",
+        "first-page": "52",
+        "volume": "46",
+        "journal-title": "Ser. A"
+      },
+      {
+        "key": "p_37",
+        "first-page": "253",
+        "volume": "13",
+        "author": "Business Journal",
+        "journal-title": "Economic Statistics"
+      },
+      {
+        "key": "p_38",
+        "first-page": "7",
+        "volume": "4",
+        "journal-title": "Derivatives"
+      },
+      {
+        "key": "p_39",
+        "first-page": "396",
+        "volume": "30",
+        "journal-title": "Ser. B"
+      },
+      {
+        "key": "p_49",
+        "doi-asserted-by": "crossref",
+        "first-page": "447",
+        "DOI": "10.1287/mnsc.29.4.447",
+        "volume": "29",
+        "journal-title": "Management Science"
+      },
+      {
+        "key": "p_50",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.2307/2289860",
+        "volume": "84",
+        "journal-title": "American Statistical Association"
+      },
+      {
+        "key": "p_52",
+        "first-page": "829",
+        "volume": "98",
+        "author": "Journal",
+        "journal-title": "American Statistical Association"
+      },
+      {
+        "key": "p_68",
+        "first-page": "107",
+        "volume": "14",
+        "journal-title": "Ser. B"
+      },
+      {
+        "key": "p_77",
+        "first-page": "1367",
+        "volume": "32",
+        "journal-title": "Statistics"
+      },
+      {
+        "key": "p_82",
+        "first-page": "620",
+        "volume": "10",
+        "journal-title": "Forecasting"
+      },
+      {
+        "key": "p_87",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1214/aoms/1177703732",
+        "volume": "35",
+        "journal-title": "Mathematical Statistics"
+      },
+      {
+        "key": "p_93",
+        "first-page": "655",
+        "volume": "20",
+        "journal-title": "Time Series Analysis"
+      },
+      {
+        "key": "p_95",
+        "first-page": "773",
+        "volume": "90",
+        "journal-title": "Statistical Association"
+      },
+      {
+        "key": "p_99",
+        "first-page": "1296",
+        "volume": "94",
+        "journal-title": "Association"
+      },
+      {
+        "key": "p_104",
+        "first-page": "443",
+        "volume": "14",
+        "author": "Weather",
+        "journal-title": "Forecasting"
+      },
+      {
+        "key": "p_106",
+        "first-page": "1363",
+        "volume": "90",
+        "journal-title": "American Meteorological Society"
+      },
+      {
+        "key": "p_107",
+        "first-page": "247",
+        "volume": "57",
+        "journal-title": "Ser. B"
+      },
+      {
+        "key": "p_109",
+        "first-page": "405",
+        "volume": "18",
+        "author": "The Annals",
+        "journal-title": "Statistics"
+      },
+      {
+        "key": "p_117",
+        "first-page": "654",
+        "volume": "42",
+        "journal-title": "Sciences"
+      },
+      {
+        "key": "p_118",
+        "first-page": "215",
+        "volume": "12",
+        "author": "Journal",
+        "journal-title": "Applied Meteorology"
+      },
+      {
+        "key": "p_122",
+        "doi-asserted-by": "crossref",
+        "first-page": "747",
+        "DOI": "10.1256/0035900021643593",
+        "volume": "128",
+        "journal-title": "Meteorological Society"
+      },
+      {
+        "key": "p_132",
+        "doi-asserted-by": "crossref",
+        "first-page": "1155",
+        "DOI": "10.1175/MWR2906.1",
+        "volume": "133",
+        "journal-title": "Weather Review"
+      },
+      {
+        "key": "p_135",
+        "first-page": "783",
+        "volume": "66",
+        "author": "Journal",
+        "journal-title": "American Statistical Association"
+      },
+      {
+        "key": "p_138",
+        "first-page": "564",
+        "volume": "42",
+        "journal-title": "Medicine"
+      },
+      {
+        "key": "p_139",
+        "first-page": "461",
+        "volume": "6",
+        "journal-title": "Statistics"
+      },
+      {
+        "key": "p_140",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1023/A:1009957816843",
+        "volume": "1",
+        "journal-title": "Experimental Economics"
+      },
+      {
+        "key": "p_142",
+        "first-page": "63",
+        "volume": "10",
+        "author": "Likelihood Validated",
+        "journal-title": "Computing"
+      },
+      {
+        "key": "p_144",
+        "first-page": "583",
+        "volume": "64",
+        "journal-title": "Ser. B"
+      },
+      {
+        "key": "p_145",
+        "first-page": "360",
+        "volume": "9",
+        "author": "Are Rules Which",
+        "journal-title": "Applied Meteorology"
+      },
+      {
+        "key": "p_151",
+        "first-page": "111",
+        "volume": "18",
+        "journal-title": "Forecasting"
+      },
+      {
+        "key": "p_161",
+        "first-page": "2821",
+        "volume": "128",
+        "author": "Quarterly Journal",
+        "journal-title": "Royal Meteorological Society"
+      },
+      {
+        "key": "p_165",
+        "doi-asserted-by": "crossref",
+        "first-page": "956",
+        "DOI": "10.1175/1520-0493(1999)127<0956:ASFVOW>2.0.CO;2",
+        "volume": "127",
+        "journal-title": "Monthly Weather Review"
+      },
+      {
+        "key": "p_166",
+        "first-page": "1073",
+        "volume": "64",
+        "author": "Journal",
+        "journal-title": "American Statistical Association"
+      },
+      {
+        "key": "p_170",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/BF02562681",
+        "volume": "5",
+        "journal-title": "Test"
+      },
+      {
+        "key": "p_171",
+        "first-page": "751",
+        "volume": "7",
+        "author": "Journal",
+        "journal-title": "Applied Meteorology"
+      },
+      {
+        "key": "p_174",
+        "first-page": "511",
+        "volume": "1",
+        "author": "Russian Journal",
+        "journal-title": "Mathematical Physics"
+      },
+      {
+        "key": "p_175",
+        "first-page": "461",
+        "volume": "28",
+        "author": "The Annals",
+        "journal-title": "Statistics"
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1198/016214506000001437",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2019-04-24T01:22:42Z",
+      "timestamp": 1556068962000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://www.tandfonline.com/doi/abs/10.1198/016214506000001437"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "477",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1198/016214506000001437"
+    ],
+    "URL": "https://doi.org/10.1198/016214506000001437",
+    "relation": {},
+    "ISSN": [
+      "0162-1459",
+      "1537-274X"
+    ],
+    "issn-type": [
+      {
+        "value": "0162-1459",
+        "type": "print"
+      },
+      {
+        "value": "1537-274X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    }
+  },
+  "cameron2008": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T21:37:53Z",
+      "timestamp": 1794087473739,
+      "version": "4.8.0"
+    },
+    "reference-count": 26,
+    "publisher": "MIT Press",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Review of Economics and Statistics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1162/rest.90.3.414",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2008-07-22T13:33:48Z",
+      "timestamp": 1216733628000
+    },
+    "page": "414-427",
+    "source": "Crossref",
+    "is-referenced-by-count": 4034,
+    "title": [
+      "Bootstrap-Based Improvements for Inference with Clustered Errors"
+    ],
+    "prefix": "10.1162",
+    "volume": "90",
+    "author": [
+      {
+        "given": "A. Colin",
+        "family": "Cameron",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonah B.",
+        "family": "Gelbach",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas L.",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "281",
+    "reference": [
+      {
+        "key": "p_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1468-0084.1987.mp49004006.x"
+      },
+      {
+        "issue": "2",
+        "key": "p_3",
+        "first-page": "169",
+        "volume": "28",
+        "author": "Bell R. M.",
+        "year": "2002",
+        "journal-title": "Survey Methodology"
+      },
+      {
+        "key": "p_4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/003355304772839588"
+      },
+      {
+        "key": "p_5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/jep.15.4.129"
+      },
+      {
+        "key": "p_9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0266466699153040"
+      },
+      {
+        "key": "p_13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1176344552"
+      },
+      {
+        "key": "p_14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3314608"
+      },
+      {
+        "key": "p_15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2289144"
+      },
+      {
+        "key": "p_17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6963-4-33"
+      },
+      {
+        "key": "p_18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2118419"
+      },
+      {
+        "key": "p_23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1198/016214501753382309"
+      },
+      {
+        "key": "p_24",
+        "first-page": "95",
+        "volume": "9",
+        "author": "Kézdi G.",
+        "year": "2004",
+        "journal-title": "Hungarian Statistical Review special number"
+      },
+      {
+        "key": "p_25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1911134"
+      },
+      {
+        "key": "p_26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/73.1.13"
+      },
+      {
+        "key": "p_27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1176351062"
+      },
+      {
+        "key": "p_28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/0008-4085.00147"
+      },
+      {
+        "key": "p_29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0304-4076(85)90158-7"
+      },
+      {
+        "key": "p_30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1176349025"
+      },
+      {
+        "key": "p_31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0006-341X.2001.00126.x"
+      },
+      {
+        "key": "p_32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0304-4076(86)90021-7"
+      },
+      {
+        "key": "p_34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1142"
+      },
+      {
+        "key": "p_35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02288586"
+      },
+      {
+        "key": "p_36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03610919708813417"
+      },
+      {
+        "key": "p_37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1912934"
+      },
+      {
+        "key": "p_39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/000282803321946930"
+      },
+      {
+        "key": "p_40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1176350142"
+      }
+    ],
+    "container-title": [
+      "Review of Economics and Statistics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.mitpressjournals.org/doi/pdf/10.1162/rest.90.3.414",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2021-03-12T16:31:48Z",
+      "timestamp": 1615566708000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://direct.mit.edu/rest/article/90/3/414-427/57731"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1162/rest.90.3.414"
+    ],
+    "URL": "https://doi.org/10.1162/rest.90.3.414",
+    "relation": {},
+    "ISSN": [
+      "0034-6535",
+      "1530-9142"
+    ],
+    "issn-type": [
+      {
+        "value": "0034-6535",
+        "type": "print"
+      },
+      {
+        "value": "1530-9142",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    }
+  },
+  "earnings22": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2026-09-15T11:14:58Z",
+      "timestamp": 1789470898345,
+      "version": "build-2803163510"
+    },
+    "reference-count": 38,
+    "publisher": "Uniwersytet Lodzki (University of Lodz)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              28
+            ]
+          ],
+          "date-time": "2023-12-28T00:00:00Z",
+          "timestamp": 1703721600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "RiL"
+    ],
+    "abstract": "<jats:p>Automatic Speech Recognition (ASR) systems generalize poorly on accented speech, creating bias issues for users and providers. The phonetic and linguistic variability of accents present challenges for ASR systems in both data collection and modeling strategies. We present two promising approaches to accented speech recognition— custom vocabulary and multilingual modeling— and highlight key challenges in the space. Among these, lack of a standard benchmark makes research and comparison difficult. We address this with a novel corpus of accented speech: Earnings-22, A 125 file, 119 hour corpus of English-language earnings calls gathered from global companies. We compare commercial models showing variation in performance when taking country of origin into consideration and demonstrate targeted improvements using the methods we introduce.</jats:p>",
+    "DOI": "10.18778/1731-7533.21.3.02",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          28
+        ]
+      ],
+      "date-time": "2023-12-28T11:12:27Z",
+      "timestamp": 1703761947000
+    },
+    "page": "225-244",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Accents in Speech Recognition through the Lens of a World Englishes Evaluation Set"
+    ],
+    "prefix": "10.18778",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Miguel",
+        "family": "Del Río",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Corey",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ján",
+        "family": "Profant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer",
+        "family": "Drexler-Fox",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Quinn",
+        "family": "Mcnamara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nishchal",
+        "family": "Bhandari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natalie",
+        "family": "Delworth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ilya",
+        "family": "Pirkin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Migüel",
+        "family": "Jetté",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shipra",
+        "family": "Chandra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Ha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ryan",
+        "family": "Westerman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "8044",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1319420",
+        "unstructured": "Ardila, R., Branson, M., Davis, K., Henretty, M., Kohler, M., Meyer, J., Morais, R., Saunders, L., Tyers, F. M., & Weber, G.. (2020). Common Voice: A massively-multilingual speech corpus. Proceedings of the 12th Conference on Language Resources and Evaluation, pp. 4218-4222."
+      },
+      {
+        "key": "1319421",
+        "unstructured": "Arons, B. (1992). A Review of the Cocktail Party Effect. AVIOS."
+      },
+      {
+        "key": "1319422",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baese-Berk, M. M., McLaughlin, D. J. & McGowan, K. B. (2020). Perception of non-native speech. Language and Linguistics Compass, pp. 1-20. https://doi.org/10.1111/lnc3.12375",
+        "DOI": "10.1111/lnc3.12375"
+      },
+      {
+        "key": "1319423",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang, X., Qian, Y., Yu, K. & Watanabe, S. (2019). End-To-End Monaural Multi-Speaker ASR System Without Pretraining. Proceedings of ICASSP. https://doi.org/10.1109/ICASSP.2019.8682822",
+        "DOI": "10.1109/ICASSP.2019.8682822"
+      },
+      {
+        "key": "1319424",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chiswick, B. R. and Miller P. W. (2005). Linguistic distance: A quantitative measure of the distance between English and other languages. Journal of Multilingual and Multicultural Development, vol. 26, no. 1, pp. 1–11. https://doi.org/10.1080/14790710508668395",
+        "DOI": "10.1080/14790710508668395"
+      },
+      {
+        "key": "1319425",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Del Río, M., Delworth, N., Westerman, R., Huang, M., Bhandari, N., Palakapilly, J., McNamara, Q., Dong, J., Zelasko, Z., and Jetté, M. (2021). “Earnings-21: A Practical Benchmark for ASR in the Wild,” in Proc. Interspeech 2021, pp. 3465–3469. https://doi.org/10.21437/Interspeech.2021-1915",
+        "DOI": "10.21437/Interspeech.2021-1915"
+      },
+      {
+        "key": "1319426",
+        "unstructured": "Drexler-Fox, J. & Delworth, N. (2022). Improving contextual recognition of rare words with an alternate spelling prediction model. Proceedings of Interspeech."
+      },
+      {
+        "key": "1319427",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gabler, P., Geiger, B. C., Schuppler, B. & Kern, R. (2023). Reconsidering Read and Spontaneous Speech: Causal Perspectives on the Generation of Training Data for Automatic Speech Recognition. Information, 14, 137. https://doi.org/10.3390/info14020137",
+        "DOI": "10.3390/info14020137"
+      },
+      {
+        "key": "1319428",
+        "unstructured": "Gandhi, S., Von Platen, P., & Rush, A. M. (2022). ESB: A Benchmark for Multi-Domain End-to-End Speech Recognition. arXiv preprint arXiv:2210.13352."
+      },
+      {
+        "key": "1319429",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Goldwater, S., Jurafsky, D., and Manning, C. D. (2010). “Which words are hard to recognize? prosodic, lexical, and disfluency factors that increase speech recognition error rates,” Speech Communication, vol. 52, no. 3, pp. 181–200. https://doi.org/10.1016/j.specom.2009.10.001",
+        "DOI": "10.1016/j.specom.2009.10.001"
+      },
+      {
+        "key": "1319430",
+        "unstructured": "Good, P. I. (2004). Permutation, Parametric, and Bootstrap Tests of Hypotheses. Springer Series in Statistics. Springer-Verlag."
+      },
+      {
+        "key": "1319431",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hazirbas, C., Bitton, J., Dolhansky, B., Pan, J., Gordo, A. & Ferrer, C. C. (2021). Towards measuring fairness in AI: the Casual Conversations dataset. ArXiv.",
+        "DOI": "10.1109/TBIOM.2021.3132237"
+      },
+      {
+        "key": "1319432",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hazirbas, C., Bang, Y., Yu, T., Assar, P., Porgali, B., Albiero, V., Hermanek, S., Pan, J., McReynolds, E., Bogen, M., Fung, P. & Ferrer, C. C. (2022). Casual Conversations v2: Designing a large consent-driven dataset to measure algorithmic bias and robustness. https://doi.org/10.1109/TBIOM.2021.3132237",
+        "DOI": "10.1109/TBIOM.2021.3132237"
+      },
+      {
+        "key": "1319433",
+        "unstructured": "Hinsvark, A. J., Delworth, N., Del Río, M., McNamara, Q., Dong, J., Westerman, R., Huang, M., Palakapilly, J., Drexler, J., Pirkin, I., Bhandari, N. & Jetté, M. (2021). Accented Speech Recognition: A Survey. ArXiv."
+      },
+      {
+        "key": "1319434",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holmes, J. (2013). An introduction to sociolinguistics. Routledge. https://doi.org/10.4324/9781315833057",
+        "DOI": "10.4324/9781315833057"
+      },
+      {
+        "key": "1319435",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Incera, S., Shah, A. P., McLennan, C. T. & Wetzel, M. T. (2017). Sentence context influences the subjective perception of foreign accents. Acta Psychologica 172, pp. 71-76.",
+        "DOI": "10.1016/j.actpsy.2016.11.011"
+      },
+      {
+        "key": "1319436",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jones, T. (2015). Toward a description of African American Vernacular English dialect regions using “Black Twitter”. American Speech, Vol. 90, No. 4. https://doi.org/10.1215/00031283-3442117",
+        "DOI": "10.1215/00031283-3442117"
+      },
+      {
+        "key": "1319437",
+        "unstructured": "Kachru, B. (1992). The Other Tongue: English across cultures. University of Illinois Press. Kang, Y. M. & Zhou, Y. (2020). Fast and robust unsupervised contextual biasing for speech recognition. ArXiv."
+      },
+      {
+        "key": "1319438",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z , Toups, C., Rickford, J. R., Jurafsky, D. & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, vol. 117, no. 14, pp. 7684–7689. https://doi.org/10.1073/pnas.1915768117",
+        "DOI": "10.1073/pnas.1915768117"
+      },
+      {
+        "key": "1319439",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kosmala, L., and Crible, L. (2021). The dual status of filled pauses: Evidence from genre, proficiency and co-occurrence. Language and Speech, May 2021. [Online]. Available: https://halshs.archives-ouvertes.fr/halshs-03225622 https://doi.org/10.1177/00238309211010862",
+        "DOI": "10.1177/00238309211010862"
+      },
+      {
+        "key": "1319440",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Levi, S. V., Winters, S. J. & Pisoni, D. B. (2007). Speaker-independent factors affecting the perception of foreign accent in a second language. Journal of the Acoustic Society of America, 121(4), pp. 2327-2338. https://doi.org/10.1121/1.2537345",
+        "DOI": "10.1121/1.2537345"
+      },
+      {
+        "key": "1319441",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lippi-Green, R. (2012). English with an Accent: Language, Ideology and Discrimination in the United States. Routledge. https://doi.org/10.4324/9780203348802",
+        "DOI": "10.4324/9780203348802"
+      },
+      {
+        "key": "1319442",
+        "unstructured": "Meyer, J., Rauchenstein, L., Eisenberg, J. D. & Howell, N. (2020). Artie bias corpus: An open dataset for detecting demographic bias in speech applications. Proceedings of the 12th Language Resources and Evaluation Conference, pp. 6462–6468."
+      },
+      {
+        "key": "1319443",
+        "unstructured": "Miller, C., Tzoukermann E., Doyon J., and Mallard, E., (2021). Corpus creation and evaluation for speech-to-text and speech translation. Proceedings of Machine Translation Summit XVIII: Users and Providers Track, pp. 44–53."
+      },
+      {
+        "key": "1319444",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O’Neill, P. K., Lavrukhin, V., Majumdar, S., Noroozi, V., Zhang, Y., Kuchaiev, O., Balam, J., Dovzhenko, Y., Freyberg, K., Shulman, M. D., Ginsburg, B., Watanabe, S., and Kucsko, G. (2021). “SPGISpeech: 5,000 Hours of Transcribed Financial Audio for Fully Formatted End-to-End Speech Recognition,” in Proc. Interspeech, pp. 1434–1438.",
+        "DOI": "10.21437/Interspeech.2021-1860"
+      },
+      {
+        "key": "1319445",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Palanica, A., Thommandram, A., Lee, A., Li, M. & Fossat, Y. (2019). Do you understand the words that are comin outta my mouth? Voice assistant comprehension of medication names. NPJ Digital Medicine, vol. 55, pp. 1-6. https://doi.org/10.1038/s41746-019-0133-x",
+        "DOI": "10.1038/s41746-019-0133-x"
+      },
+      {
+        "key": "1319446",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pharies, D. A. (2007). A Brief History of the Spanish Language. University Of Chicago Press. https://doi.org/10.1038/s41746-019-0133-x",
+        "DOI": "10.7208/chicago/9780226666846.001.0001"
+      },
+      {
+        "key": "1319447",
+        "unstructured": "Porgali, B., Albiero, V., Ryda, J., Ferrer, C. C. & Hazirbas, C. (2023). The Casual Conversations v2 Dataset. ArXiv. Radford, A., Kim, J. W., Xu, T., Brockman, G., McLeavey, C., & Sutskever, I. (2022). Robust speech recognition via large-scale weak supervision. arXiv preprint arXiv:2212.04356."
+      },
+      {
+        "key": "1319448",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ralli, A. (2020). Greek in Contact with Romance. In M. Loporcaro & F. Gardani (eds.) The Oxford Encyclopedia of Romance Linguistics. Oxford. https://doi.org/10.1093/acrefore/9780199384655.013.422",
+        "DOI": "10.1093/acrefore/9780199384655.013.422"
+      },
+      {
+        "key": "1319449",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Reid, K. & Williams, E. T. (2023). Common Voice and accent choice: Data contributors self-describe their spoken accents in diverse ways. EasyChair. https://doi.org/10.1145/3617694.3623258",
+        "DOI": "10.1145/3617694.3623258"
+      },
+      {
+        "key": "1319450",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Trinh, V. A., Gharemani, P., King, B., Droppo, J., Stolcke, A. & Maas, R. (2022). Reducing geographic disparities in automatic speech recognition via elastic weight consolidation. Proceedings of Interspeech. https://doi.org/10.21437/Interspeech.2022-11063",
+        "DOI": "10.21437/Interspeech.2022-11063"
+      },
+      {
+        "key": "1319451",
+        "doi-asserted-by": "crossref",
+        "unstructured": "van Rooy, B. (2020). English in Africa. In D. Schreier, M. Hundt & E. W. Schneider (eds.), The Cambridge Handbook of World Englishes, pp. 210-235. Cambridge University Press.",
+        "DOI": "10.1017/9781108349406.010"
+      },
+      {
+        "key": "1319452",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wagner, E., Liao, Y.-F. & Wagner, S. (2021). Authenticated Spoken Texts for L2 Listening Tests. Language Assessment Quarterly 18:3, pp. 205-227. https://doi.org/10.1080/15434303.2020.1860057",
+        "DOI": "10.1080/15434303.2020.1860057"
+      },
+      {
+        "key": "1319453",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wells, J. C. (1982). Accents of English: Volume 3: Beyond the British Isles. Cambridge University Press. https://doi.org/10.1017/CBO9780511611766",
+        "DOI": "10.1017/CBO9780511611766"
+      },
+      {
+        "key": "1319454",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wrembel, M., Gut, U., Kopečková, R. & Balas, A. Cross-linguistic interactions in third language acquisition: Evidence from multi-feature analysis of speech perception. (2020). Languages 5:52, pp. 1-21. https://doi.org/10.3390/languages5040052",
+        "DOI": "10.3390/languages5040052"
+      },
+      {
+        "key": "1319455",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang, X., Audhkhasi, K., Rosenberg, A., Thomas, S., Ramabhadran, B., and Hasegawa-Johnson, M. (2018). “Joint modeling of accents and acoustics for multi-accent speech recognition,” in 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018, pp. 1–5. https://doi.org/10.1109/ICASSP.2018.8462557",
+        "DOI": "10.1109/ICASSP.2018.8462557"
+      },
+      {
+        "key": "1319456",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiong, W., Droppo, J., Huang, X., Seide, F., Seltzer, M., Stolcke, A., Yu, D. & Zweig, G. (2016). Achieving human parity in conversational speech recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing. https://doi.org/10.1109/TASLP.2017.2756440",
+        "DOI": "10.1109/TASLP.2017.2756440"
+      },
+      {
+        "key": "1319457",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou, L., Li, J., Sun, E. & Liu, S. (2022). A Configurable Multilingual Model is all you need to recognize all languages. Proceedings of ICASSP. https://doi.org/10.1109/ICASSP43922.2022.9747905",
+        "DOI": "10.1109/ICASSP43922.2022.9747905"
+      }
+    ],
+    "container-title": [
+      "Research in Language"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://czasopisma.uni.lodz.pl/research/article/download/21579/21428",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://czasopisma.uni.lodz.pl/research/article/download/21579/21428",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          28
+        ]
+      ],
+      "date-time": "2023-12-28T11:12:52Z",
+      "timestamp": 1703761972000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://czasopisma.uni.lodz.pl/research/article/view/21579"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          28
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "3",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            28
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.18778/1731-7533.21.3.02",
+    "relation": {},
+    "ISSN": [
+      "1731-7533"
+    ],
+    "issn-type": [
+      {
+        "value": "1731-7533",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          28
+        ]
+      ]
+    }
+  }
+}

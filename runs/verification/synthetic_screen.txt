@@ -1,0 +1,22 @@
+FinAudit source-linked screening report
+Event: synthetic-example-001
+Data kind: synthetic
+Scope: numeric discrepancies in annotated inputs; no intent or legal determination.
+A report of no numeric discrepancy does not establish truth or compliance.
+
+claim-revenue: no_numeric_discrepancy
+Revenue was USD 485.
+Transcript locator: synthetic turn 1
+Context-matched numeric comparison; this is not a truth or intent judgment
+  Source: synthetic-filing | fixture revenue | synthetic://fixture/filing
+
+claim-cash: candidate_discrepancy
+Cash was USD 310.
+Transcript locator: synthetic turn 2
+Context-matched numeric comparison; this is not a truth or intent judgment
+  Source: synthetic-filing | fixture cash | synthetic://fixture/filing
+
+claim-unknown: insufficient_evidence
+Guarantees were zero.
+Transcript locator: synthetic turn 3
+No context-matched evidence available by the call timestamp

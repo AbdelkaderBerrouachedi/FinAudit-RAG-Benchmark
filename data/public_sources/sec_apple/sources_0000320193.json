@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://data.sec.gov/submissions/CIK0000320193.json",
+    "file": "submissions_0000320193.json",
+    "sha256": "0b0e61bf3ab6ea0c33a95bca99be8defad712262d378282d6e9e343856548fae",
+    "retrieved_at": "2026-11-08T01:52:20.825680+00:00"
+  },
+  {
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+    "file": "companyfacts_0000320193.json",
+    "sha256": "f085735b4d08fb116ade18d24247ffabe11df8eb52eae6556b165831f15ef1ad",
+    "retrieved_at": "2026-11-08T01:52:36.701935+00:00"
+  }
+]

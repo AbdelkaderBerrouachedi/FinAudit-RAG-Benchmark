@@ -1,0 +1,44 @@
+{
+  "utc": "2026-11-08T02:08:51.942740+00:00",
+  "commands": [
+    {
+      "command": [
+        "C:\\Users\\Abdelkader\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "returncode": 0,
+      "log": "command_0.log"
+    },
+    {
+      "command": [
+        "C:\\Users\\Abdelkader\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "run_finaudit.py",
+        "screen",
+        "--bundle",
+        "data/synthetic_example.json",
+        "--output",
+        "runs/verification/synthetic_screen.json"
+      ],
+      "returncode": 0,
+      "log": "command_1.log"
+    }
+  ],
+  "all_passed": true,
+  "source_sha256": {
+    "finaudit/audio.py": "bd13b91295d3baeaafb747decfdfb26ec956aece163d7a2112c4b600b11a2f01",
+    "finaudit/cli.py": "93c6468f39e369ba9ac44e86fd26ebf40d81ce5d7b90459fb87bf5ef45ed7ffe",
+    "finaudit/evaluation.py": "9205da2ca3bd9201ccc3097751e3c522210782f3fbbd23fde015ddecf58691cf",
+    "finaudit/model.py": "c363cdd7d50dbe9321579a917806adb122a34d4b8fa806d9f9843f51841b5ecb",
+    "finaudit/provenance.py": "238a2cb307ca903749a2046c09332c0b79deea9d5b85980955f7bc1f7b00716b",
+    "finaudit/screening.py": "07b16c414e43528bccbd433c28d8a46e66ad5ca65a9e8b25db78b9db2dfbc992",
+    "finaudit/sec.py": "d90f75bea90d2366ef6b0405241360d326320b34932016fb5491b5cc281c0d1b",
+    "finaudit/__init__.py": "4b49933d85506d97996737e9654557979d3c5cad34e90d61f6f4312562891046",
+    "tests/test_core.py": "8bbe2aec6846f014e12c572688c125add82e9e54f847d3b40f7b1059b90b814d"
+  },
+  "scope": "synthetic correctness tests and illustrative screening only; no labeled financial benchmark"
+}

@@ -1,0 +1,65 @@
+Future empirical study: required records and decisions
+====================================================
+
+The current implementation has software verification and a public-source audit.
+The following steps are prerequisites for a new empirical paper, not experiments
+that have already been performed. Do not present this protocol as results.
+
+1. Freeze the target before labels. Define separately AAER-related and restatement-
+   related positives; specify their union, overlap, allegations versus adjudicated
+   findings, covered financial periods and a fixed outcome-observation cutoff.
+   Choose a future-call target for known issuers or a separate unseen-issuer target.
+   Absence of an enforcement entry does not establish compliance. Controls need a
+   documented search and maturation horizon; unresolved events stay unknown.
+2. Freeze source revisions and preserve immutable event IDs, URLs, text hashes,
+   issuer/CIK history, call date/time/timezone and fiscal/calendar dates. Preserve
+   multiple distinct events per issuer-quarter only with documented event rules.
+   Detect same-text duplicates, amended transcripts and alternate ticker symbols.
+   An inventory row count is not an evaluated population or a unique-firm count.
+3. Link each claim to its exact transcript segment; preserve raw text and any audio
+   locator. Link each filing fact to the exact accession, context, period, unit,
+   dimensional scope, measurement basis and assurance metadata. Record verified
+   availability times for every predictor. Keep outcome evidence separate from
+   feature evidence, especially restatements revealed after the prediction time.
+4. Save independent labels with rater IDs, instructions, uncertainty and conflicts.
+   Map firm-period labels to calls explicitly; do not infer utterance truth or intent.
+   Hold raw decisions separately from adjudications. Record exclusions with reasons.
+5. Split chronologically and freeze test membership. Fit scalers, missing-data rules,
+   feature selection, hyperparameters and any calibration using training/validation
+   only. An issuer may recur if the target is future calls for known issuers; this
+   does not justify an unseen-firm claim. Audit model pretraining/source vintages.
+6. Compare adequate matched baselines before claiming superiority. Save versions,
+   access mode, checkpoints, prompts, seeds, costs and missing-modality policies.
+   Use identical eligible test IDs for paired comparisons. Archive raw scores,
+   threshold provenance and exclusions rather than only aggregated table values.
+7. Generate class F1, macro-F1, ROC/AUC, operating-point confusion counts and uncertainty
+   from predictions. Use issuer/case-aware resampling justified by dependence. Use
+   an actual paired DeLong implementation only if its assumptions fit the design;
+   otherwise label the chosen paired method correctly. Never rename AUC-vs-0.5.
+8. If probability calibration is claimed, identify the target prevalence, fitted
+   calibrator, fitting partition, bin boundaries and weights. Report discrimination
+   separately from Brier/ECE and threshold errors. Noise robustness requires matched
+   clean/perturbed observations, SNR definitions and false-alert results at a fixed
+   operating point, not AUROC alone. Do not label engineering defaults optimal.
+9. For memo evaluation, predefine sampling, number of memos/claims/citations, complete
+   prompt/model records, annotator expertise, blinding, rubric and agreement measure.
+   Distinguish unsupported from unverifiable; report missing evidence separately.
+   Publish row-level adjudications or a justified controlled-access reconstruction.
+10. For historical cases, retain exact recordings/quotes/filing timestamps and run
+    traces. A liquidity stress case must specify funding sources, sale sizes, prices,
+    losses and capital effects. Selected failures do not estimate sensitivity.
+11. Optional studies (market returns, custom tags, human cost, international transfer,
+    regulatory acceleration) require their own populations, comparisons, methods,
+    uncertainty and logs. If not run, leave them out of results. Latency profiling
+    must distinguish download, ASR, feature extraction, retrieval and generation;
+    identify input length, batch size, hardware, API/local execution and concurrency.
+12. Release exact table-generation commands, model artifacts and input hashes. Rebuild
+    the PDF from the same source revision and audit every numeric claim. Do not claim
+    all reviewer issues closed when an empirical dependency remains unresolved.
+
+Suggested additional label fields (not all enforced by the minimal CLI):
+event_id, issuer_id, CIK, original_source_id, transcript_sha256, source_revision,
+fiscal_period, call_time, timezone_evidence, label, label_status, label_type,
+AAER_id, restatement_accession, affected_period_start/end, label_source,
+label_definition, label_as_of, outcome_horizon, rater_ids, adjudication_reason,
+split, split_freeze_id, duplicate_group, case_cluster, features_available_at.

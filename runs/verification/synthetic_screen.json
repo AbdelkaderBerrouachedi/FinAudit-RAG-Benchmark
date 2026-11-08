@@ -1,0 +1,200 @@
+{
+  "schema_version": "0.3",
+  "event_id": "synthetic-example-001",
+  "data_kind": "synthetic",
+  "issuer_id": "SYNTHETICCO",
+  "call_time": "2024-01-20T17:00:00Z",
+  "method": "context-matched numeric discrepancy with lexical source retrieval",
+  "max_discrepancy": 0.4032258064516129,
+  "evidence_coverage": 0.6666666666666666,
+  "probability": null,
+  "probability_status": "not_estimated",
+  "claim_results": [
+    {
+      "claim_id": "claim-revenue",
+      "quote": "Revenue was USD 485.",
+      "concept": "Revenue",
+      "transcript_locator": "synthetic turn 1",
+      "comparison_context": {
+        "concept": "Revenue",
+        "period": "2023Q4",
+        "unit": "USD",
+        "issuer_id": "SYNTHETICCO",
+        "basis": "reported"
+      },
+      "disposition": "no_numeric_discrepancy",
+      "score": 0.0,
+      "evidence": [
+        {
+          "fact_id": "revenue",
+          "source_id": "synthetic-filing",
+          "locator": "fixture revenue",
+          "assurance": "reported",
+          "url": "synthetic://fixture/filing"
+        }
+      ],
+      "reason": "Context-matched numeric comparison; this is not a truth or intent judgment",
+      "claimed_value": 485.0,
+      "reported_value": 485.0,
+      "comparator": "eq",
+      "absolute_difference": 0.0,
+      "tolerance": 4.8500000000000005,
+      "retrieved_context": [
+        {
+          "source_id": "synthetic-filing",
+          "score": 1.1285988996185248,
+          "text": "Illustrative financial input: revenue USD 485; cash USD 185; assets USD 1290; liabilities USD 801; equity USD 489. These values are fictional fixtures, not company evidence."
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-cash",
+      "quote": "Cash was USD 310.",
+      "concept": "Cash",
+      "transcript_locator": "synthetic turn 2",
+      "comparison_context": {
+        "concept": "Cash",
+        "period": "2023Q4",
+        "unit": "USD",
+        "issuer_id": "SYNTHETICCO",
+        "basis": "reported"
+      },
+      "disposition": "candidate_discrepancy",
+      "score": 0.4032258064516129,
+      "evidence": [
+        {
+          "fact_id": "cash",
+          "source_id": "synthetic-filing",
+          "locator": "fixture cash",
+          "assurance": "reported",
+          "url": "synthetic://fixture/filing"
+        }
+      ],
+      "reason": "Context-matched numeric comparison; this is not a truth or intent judgment",
+      "claimed_value": 310.0,
+      "reported_value": 185.0,
+      "comparator": "eq",
+      "absolute_difference": 125.0,
+      "tolerance": 3.1,
+      "retrieved_context": [
+        {
+          "source_id": "synthetic-filing",
+          "score": 0.840916827166744,
+          "text": "Illustrative financial input: revenue USD 485; cash USD 185; assets USD 1290; liabilities USD 801; equity USD 489. These values are fictional fixtures, not company evidence."
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-unknown",
+      "quote": "Guarantees were zero.",
+      "concept": "Guarantees",
+      "transcript_locator": "synthetic turn 3",
+      "comparison_context": {
+        "concept": "Guarantees",
+        "period": "2023Q4",
+        "unit": "USD",
+        "issuer_id": "SYNTHETICCO",
+        "basis": "reported"
+      },
+      "disposition": "insufficient_evidence",
+      "score": null,
+      "evidence": [],
+      "reason": "No context-matched evidence available by the call timestamp",
+      "retrieved_context": []
+    }
+  ],
+  "accounting_checks": [
+    {
+      "identity": "balance_sheet",
+      "context": [
+        "SYNTHETICCO",
+        "2023Q4",
+        "USD",
+        "reported"
+      ],
+      "status": "consistent",
+      "residual": 0.0
+    },
+    {
+      "identity": "gross_profit",
+      "context": [
+        "SYNTHETICCO",
+        "2023Q4",
+        "USD",
+        "reported"
+      ],
+      "status": "not_assessed",
+      "reason": "Missing or conflicting terms"
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "claim-revenue",
+        "type": "claim"
+      },
+      {
+        "id": "claim-cash",
+        "type": "claim"
+      },
+      {
+        "id": "claim-unknown",
+        "type": "claim"
+      },
+      {
+        "id": "revenue",
+        "type": "financial_fact"
+      },
+      {
+        "id": "cash",
+        "type": "financial_fact"
+      },
+      {
+        "id": "assets",
+        "type": "financial_fact"
+      },
+      {
+        "id": "liabilities",
+        "type": "financial_fact"
+      },
+      {
+        "id": "equity",
+        "type": "financial_fact"
+      }
+    ],
+    "edges": [
+      {
+        "from": "claim-revenue",
+        "to": "revenue",
+        "type": "context_matched_reference"
+      },
+      {
+        "from": "claim-cash",
+        "to": "cash",
+        "type": "context_matched_reference"
+      }
+    ]
+  },
+  "human_review_required": true,
+  "run_provenance": {
+    "software_version": "0.3.0",
+    "utc": "2026-11-08T02:08:51.251032+00:00",
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "command": {
+      "command": "screen",
+      "bundle": "data/synthetic_example.json",
+      "output": "runs/verification/synthetic_screen.json",
+      "relative_tolerance": 0.01,
+      "absolute_tolerance": 0.0
+    },
+    "input_files": {
+      "bundle": {
+        "path": "data/synthetic_example.json",
+        "sha256": "400c2276d55d93d5f1bc6be12939911da524a044244c81a78ed57c6a557cfc59"
+      }
+    },
+    "elapsed_seconds": 0.6545885000014096,
+    "timing_scope": "this local command only; not raw audio-to-LLM end-to-end latency"
+  }
+}

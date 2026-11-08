@@ -1,0 +1,70 @@
+{
+  "threshold": 0.9658175404870974,
+  "model_sha256": "c3edb47634e2f2f1fe326cefc042680c1a9974480409333555c5bfa514f616eb",
+  "predictions": [
+    {
+      "event_id": "integration-2-0",
+      "score": 0.03418245951290252,
+      "prediction": 0
+    },
+    {
+      "event_id": "integration-2-1",
+      "score": 0.9658175404870974,
+      "prediction": 1
+    },
+    {
+      "event_id": "integration-2-2",
+      "score": 0.03418245951290252,
+      "prediction": 0
+    },
+    {
+      "event_id": "integration-2-3",
+      "score": 0.9658175404870974,
+      "prediction": 1
+    },
+    {
+      "event_id": "integration-2-4",
+      "score": 0.03418245951290252,
+      "prediction": 0
+    },
+    {
+      "event_id": "integration-2-5",
+      "score": 0.9658175404870974,
+      "prediction": 1
+    },
+    {
+      "event_id": "integration-2-6",
+      "score": 0.03418245951290252,
+      "prediction": 0
+    },
+    {
+      "event_id": "integration-2-7",
+      "score": 0.9658175404870974,
+      "prediction": 1
+    }
+  ],
+  "run_provenance": {
+    "software_version": "0.3.0",
+    "utc": "2026-11-08T02:09:24.797284+00:00",
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "command": {
+      "command": "predict",
+      "model": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json",
+      "features": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\test_features.json",
+      "output": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\predictions.json"
+    },
+    "input_files": {
+      "features": {
+        "path": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\test_features.json",
+        "sha256": "ed44c4eff64ce038dd47dbda0baaa2fc9da835e39342b80cb1b46225de117baf"
+      },
+      "model": {
+        "path": "C:\\Users\\Abdelkader\\Documents\\Codex\\2026-11-07\\files-mentioned-by-the-user-main\\work\\round3_revision\\Code_Git\\runs\\integration\\model.json",
+        "sha256": "c3edb47634e2f2f1fe326cefc042680c1a9974480409333555c5bfa514f616eb"
+      }
+    },
+    "elapsed_seconds": 0.6356564999987313,
+    "timing_scope": "this local command only; not raw audio-to-LLM end-to-end latency"
+  }
+}

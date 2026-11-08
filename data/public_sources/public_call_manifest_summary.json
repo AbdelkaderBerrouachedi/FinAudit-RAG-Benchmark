@@ -1,0 +1,25 @@
+{
+  "source_url": "https://huggingface.co/datasets/kurry/sp500_earnings_transcripts/resolve/f3ded372da8d18dc6ad98955c4558e34b5fe6d45/parquet_files/part-0.parquet",
+  "revision": "f3ded372da8d18dc6ad98955c4558e34b5fe6d45",
+  "all_rows": 33362,
+  "selected_rows": 14585,
+  "unique_symbols": 601,
+  "years": {
+    "2020": 2210,
+    "2021": 2170,
+    "2022": 2110,
+    "2023": 2079,
+    "2024": 2033,
+    "2019": 2014,
+    "2018": 1969
+  },
+  "downloaded_metadata_bytes": 301570,
+  "full_transcripts_downloaded": true,
+  "label_status": "unlabeled; no AAER/restatement adjudication",
+  "purpose": "New public source inventory, not the original FinAudit cohort",
+  "empty_texts": 1,
+  "duplicate_content_rows": 79,
+  "manifest_sha256": "f4faf753921e4d7a91962add49e2945f84dd3f19f11f0b308c4a050dc092b53e",
+  "export_sha256": "1c365b31310f5b2b037a7504e9012a0da705c9109515537bdaa0827ac9bdbe8a",
+  "integrity_verified_at": "2026-11-08T02:16:26.112701+00:00"
+}

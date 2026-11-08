@@ -1,0 +1,22 @@
+{
+  "source_url": "https://huggingface.co/datasets/kurry/sp500_earnings_transcripts/resolve/f3ded372da8d18dc6ad98955c4558e34b5fe6d45/parquet_files/part-0.parquet",
+  "revision": "f3ded372da8d18dc6ad98955c4558e34b5fe6d45",
+  "raw_parquet_sha256": "9a305a1c4cbf6c4b0b9c8b98b242ea3de4dbe0ad43937dc54b56418629a17b31",
+  "source_rows": 33362,
+  "exported_rows": 14585,
+  "years": {
+    "2020": 2210,
+    "2021": 2170,
+    "2022": 2110,
+    "2023": 2079,
+    "2024": 2033,
+    "2019": 2014,
+    "2018": 1969
+  },
+  "empty_texts": 1,
+  "duplicate_content_rows": 79,
+  "export_bytes": 275179053,
+  "full_transcripts_downloaded": true,
+  "labels_available": false,
+  "audio_in_this_dataset": false
+}

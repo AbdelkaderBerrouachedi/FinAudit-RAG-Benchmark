@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://zenodo.org/api/records/19032377",
+    "file": "zenodo_record.json",
+    "sha256": "e6c38991c8fd3fa76afd704d9b929eb2fca791f215d0af6c9b4b6d8a462d1641",
+    "bytes": 5155,
+    "retrieved_utc": "2026-11-08T01:39:21.885213+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/19032377/files/metadata.csv/content",
+    "file": "zenodo_metadata.csv",
+    "sha256": "a40755bcd30cda9c9f8c6197bb809d93791ecacbec38ff194e32a82925763899",
+    "bytes": 614235,
+    "retrieved_utc": "2026-11-08T01:39:22.791834+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/19032377/files/README_data.md/content",
+    "file": "zenodo_README_data.md",
+    "sha256": "c36463b3ad0c9f94a3b6b2182e05dae290e58a61c2ab9f5c80049343115a7b62",
+    "bytes": 1581,
+    "retrieved_utc": "2026-11-08T01:39:23.059396+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/19032377/files/checksums.txt/content",
+    "file": "zenodo_checksums.txt",
+    "sha256": "fc0d240f3abcb637ae51f5af6de89209cb30d81380b3f3e4a84a2576d60d1c23",
+    "bytes": 581,
+    "retrieved_utc": "2026-11-08T01:39:23.297727+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/revdotcom/speech-datasets/main/earnings22/metadata.csv",
+    "file": "earnings22_metadata.csv",
+    "sha256": "52dbda11f4abbabf1b59dedae315d5873d6ccfe75104d1bce3d8ab24341f28e1",
+    "bytes": 10057,
+    "retrieved_utc": "2026-11-08T01:39:23.675990+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/revdotcom/speech-datasets/main/earnings22/LICENSE.md",
+    "file": "earnings22_LICENSE.md",
+    "sha256": "f68574aae5b4abc00aedc10c6843142b0d7162c74bd13c24752a7f16a44a09b7",
+    "bytes": 249,
+    "retrieved_utc": "2026-11-08T01:39:24.081133+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/revdotcom/speech-datasets/main/earnings22/README.md",
+    "file": "earnings22_README.md",
+    "sha256": "87c2aa7139b00e3e42cd6f4aba84f735ce4487f0b5bf72d73a0288b6ec32aa4d",
+    "bytes": 4367,
+    "retrieved_utc": "2026-11-08T01:39:24.493984+00:00"
+  },
+  {
+    "url": "https://huggingface.co/api/datasets/kurry/sp500_earnings_transcripts",
+    "file": "hf_dataset_record.json",
+    "sha256": "a209683065350ab925bac89a9056ab4a6227bdd1c3baf58dc91e4a6869490e40",
+    "bytes": 1772,
+    "retrieved_utc": "2026-11-08T01:39:24.770331+00:00"
+  },
+  {
+    "url": "https://huggingface.co/datasets/kurry/sp500_earnings_transcripts/raw/main/README.md",
+    "file": "hf_README.md",
+    "sha256": "7273da402c701aafd89a9e637dfbb20385807cda550584c19798952bc43d3f29",
+    "bytes": 5775,
+    "retrieved_utc": "2026-11-08T01:39:25.047725+00:00"
+  }
+]
